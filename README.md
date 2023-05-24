@@ -2,7 +2,7 @@
   <h1>🎮 Osu-Kawata-Cheat-List 🎮</h1>
 </div>
 
-A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be warned: use of these cheats on the main server can lead to a ban._
+A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be warned: use of these cheats on the main server can will to a ban.
 
 ## Table of Contents
 - [Cheat List](#cheat-list)
@@ -19,11 +19,11 @@ A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be 
 - [**AQN no login**](https://github.com/rumoi/AQN_nologin)
 
 ## 📦 Kawata Client List <a name="kawata-client-list"></a>
-Below are clients designed for use in the Kawata server. 🚫 **Please refrain from using these clients in bancho or any other servers.** Most of these clients are detectable and thus prohibited on other servers. 
+Below are clients designed for use in the Kawata server and Fuquila. 🚫 **Please refrain from using these clients in bancho or any other servers.** Most of these clients are detectable and thus prohibited on other servers. 
 
-For those who wish to explore cheating in Kawata, the following clients are often employed. Note that certain clients may require a patch due to newer server infrastructure.
+For those who wish to explore cheating in in the mentioned approved servers (Kawata/Fuquila) , the following clients are often employed. Note that certain clients may require a patch due to newer server infrastructure.
 
-Before deploying these clients, please familiarize yourself with the usage rules at: [Kawata Rules](https://kawata.pw/doc/rules) or check our Discord rules channel.
+Before deploying these clients, please familiarize yourself with the usage rules at: [Kawata Rules](https://kawata.pw/doc/rules) or [Fuquila](https://fuquila.net/doc/rules) or check there Discord rules channel.
 
 ### 🎯 Abypass <a name="abypass"></a>
 _Crafted by @Aochi#0502._
