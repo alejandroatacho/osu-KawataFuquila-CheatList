@@ -2,7 +2,7 @@
   <h1>🎮 Osu Kawata/Fuquila Cheat List 🎮</h1>
 </div>
 
-A curated list of cheats exclusively for the **Kawata/Fuquila server for osu!** ❗ _Be warned: use of these cheats on the main server can lead to a ban._
+A curated list of cheats exclusively for the **Kawata/Fuquila server for osu!** ❗ _Be warned: use of these cheats on the main server will lead to a ban._
 
 Kawata server: https://kawata.pw/ <br/>
 Fuquila server: https://osu.fuquila.net/
