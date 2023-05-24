@@ -1,47 +1,71 @@
-# Osu-Kawata-Cheat-List
-All osu cheats you can use on kawata, beware you will get banned on main server!
+<div align="center">
+  <h1>🎮 Osu-Kawata-Cheat-List 🎮</h1>
+</div>
 
-osu!rx 2.0 - Redesigned with Bypass - https://www.mpgh.net/forum/showthread.php?t=1538659
+A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be warned: use of these cheats on the main server can lead to a ban._
 
-AQN no login - https://github.com/rumoi/AQN_nologin
+## Table of Contents
+- [Cheat List](#cheat-list)
+- [Kawata Client List](#kawata-client-list)
+  - [Abypass](#abypass)
+  - [Skoot.er](#skooter)
+  - [Ainu](#ainu)
+  - [Maple Client](#maple-client)
+  - [AQN](#aqn)
+  - [Patched osu 20220424](#patched-osu-20220424)
 
-Kawata Clients List
-⚠️ ⚠️ ⚠️ !!!!!Don't use these clients in bancho, We DO NOT SUPPORT CHEATING ON OTHER SERVERS also most of them are detected!!!!!!⚠️ ⚠️ ⚠️ 
+## 🛠️ Cheat List <a name="cheat-list"></a>
+- [**osu!rx 2.0**](https://www.mpgh.net/forum/showthread.php?t=1538659) - Redesigned with Bypass.
+- [**AQN no login**](https://github.com/rumoi/AQN_nologin)
 
-If you want to cheat in kawata there's a lot of clients to do that.
-but usually people use the following clients. (NOTE: Some clients require a patch due to newer server infrastructure)
+## 📦 Kawata Client List <a name="kawata-client-list"></a>
+Below are clients designed for use in the Kawata server. 🚫 **Please refrain from using these clients in bancho or any other servers.** Most of these clients are detectable and thus prohibited on other servers. 
 
-First of all, read the rules about these clients and their usage at: https://kawata.pw/doc/rules or in our discord ⁠⁠rules channel.
+For those who wish to explore cheating in Kawata, the following clients are often employed. Note that certain clients may require a patch due to newer server infrastructure.
 
-Abypass Made by @Aochi#0502 ): 
-  DL: https://abypass.fumo.lol/updater 
-  Mirror: https://api.upload.systems/images/KZ5Kk0wV/download
-  Mirror: https://files.microu.sbs/mirror/abypass.zip
+Before deploying these clients, please familiarize yourself with the usage rules at: [Kawata Rules](https://kawata.pw/doc/rules) or check our Discord rules channel.
 
-Skoot.er (Made by @pep.py  , @vaccat  @Chewy , @Deleted User ):
-  DL/Discord:  https://skooter.shibe.lol/ 
-  Kawata Patch: https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe (NOTE: Required for Connection Fix and increased AA)
-NOTE: if you get auto restricted for using skoot.er (while logging in or playing) Create a ticket then do the following:
-1.Open your client.
-2.Go to the bottom
-3.click on "unban stuff"
-4.Close the client then in a ticket explain you were auto restricted by skoot.er and wait for an unrestrict.
-5.Open the game and submit a score.
+### 🎯 Abypass <a name="abypass"></a>
+_Crafted by @Aochi#0502._
 
-Ainu [ @Chewy version] (Made by @pep.py): 
-  DL: https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe
-  Alternate Version: https://cdn.discordapp.com/attachments/837034085478039574/902318926980071434/ainu-cheat_1.exe
+Download Links: 
+- [**Main Link**](https://abypass.fumo.lol/updater)
+- [**Mirror 1**](https://api.upload.systems/images/KZ5Kk0wV/download)
+- [**Mirror 2**](https://files.microu.sbs/mirror/abypass.zip)
 
-Maple client (paid client, Made by @Maple Syrup):
-  Website/DL: https://maple.software/ 
-  Discord/Support: https://discord.com/invite/P9Yn8FfC2v
+### 🎯 Skoot.er <a name="skooter"></a>
+_Developed by @pep.py, @vaccat, @Chewy, @Deleted User._
 
-AQN (Paid Cheat, Made by @rumoi) : 
-  Website: https://theaquila.net/ 
-  No Login / Public Release Version: https://github.com/rumoi/AQN_nologin
+Download Links: 
+- [**Main Link**](https://skooter.shibe.lol/)
+- [**Kawata Patch**](https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe) _(Required for Connection Fix and increased AA)_
 
-Patched osu 20220424 (For Osu!RX and other older cheats, Required for connection fix): 
- DL: https://osekai.net/snapshots/versions/b20220424/b20220424.zip or https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe (NOTE: re-add ! at end of osu so it looks like osu!.exe)
+### 🎯 Ainu <a name="ainu"></a>
+_Conceived by @pep.py, Version by @Chewy._
 
-(NOTE: Most of the following cheats and clients are not supported by our server)
-OsuHere's how you can adjust your `readme.md` file so the output is shown in an md code block:
+Download Links:
+- [**Main Link**](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe)
+- [**Alternate Version**](https://cdn.discordapp.com/attachments/837034085478039574/902318926980071434/ainu-cheat_1.exe)
+
+### 🎯 Maple Client <a name="maple-client"></a>
+_Premium client by @Maple Syrup._
+
+Links: 
+- [**Website/Download**](https://maple.software/)
+- [**Discord/Support**](https://discord.com/invite/P9Yn8FfC2v)
+
+### 🎯 AQN <a name="aqn"></a>
+_Premium Cheat, created by @rumoi._
+
+Links: 
+- [**Website**](https://theaquila.net/)
+- [**No Login/Public Release Version**](https://github.com/rumoi/AQN_nologin)
+
+### 🎯 Patched osu 20220424 <a name="patched-osu-20220424"></a>
+_Ideal for Osu!RX and other legacy cheats._
+
+Download Links: 
+- [**Main Link**](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
+- [**Alternate Link**](https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe)
+
+⚠️ **NOTE:** Most of the cheats and clients enumerated above are not supported by our server.
