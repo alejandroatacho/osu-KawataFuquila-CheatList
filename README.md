@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎮 Osu-Kawata-Cheat-List 🎮</h1>
+  <h1>🎮 Osu Kawata/Fuquila Cheat List 🎮</h1>
 </div>
 
 A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be warned: use of these cheats on the main server can will to a ban.
