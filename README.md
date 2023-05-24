@@ -40,7 +40,6 @@ _Crafted by @Aochi._
 Download Links: 
 - [**Main Link**](https://abypass.fumo.lol/updater)
 - [**Mirror 1**](https://api.upload.systems/images/KZ5Kk0wV/download)
-- [**Mirror 2**](https://files.microu.sbs/mirror/abypass.zip)
 
 ### 🎯 Skoot.er <a name="skooter"></a>
 _Developed by @pep.py, @vaccat, @Chewy, @Deleted User._
