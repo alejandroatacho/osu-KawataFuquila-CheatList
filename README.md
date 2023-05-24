@@ -55,7 +55,7 @@ Links:
 - [**Discord/Support**](https://discord.com/invite/P9Yn8FfC2v)
 
 ### 🎯 AQN <a name="aqn"></a>
-_Premium Cheat, created by @rumoi._
+_Premium Cheat, created by @rumoi & @Kevin._
 
 Links: 
 - [**Website**](https://theaquila.net/)
