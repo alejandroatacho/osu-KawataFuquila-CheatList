@@ -17,9 +17,11 @@ Use these cheats and clients at your own risk. While they are curated for use on
   - [AQN](#aqn)
   - [Patched osu 20220424](#patched-osu-20220424)
 
-## 🛠️ Cheat List <a name="cheat-list"></a>
+## 🛠️ Most Used Cheats 2023 *Work In Progress* <a name="cheat-list"></a>
+- [**Main Link**](https://abypass.fumo.lol/updater) - Overall good client to have a seperate osu official client and a "cheating" client for these private servers
 - [**osu!rx 2.0**](https://www.mpgh.net/forum/showthread.php?t=1538659) - Redesigned with Bypass.
-- [**AQN no login**](https://github.com/rumoi/AQN_nologin)
+- [**AQN no login**](https://github.com/rumoi/AQN_nologin) - can crash, but premium went to free 
+
 
 ## 📦Client List <a name="kawata-client-list"></a>
 Below are clients designed for use in the Kawata server and Fuquila. 🚫 **Please refrain from using these clients in bancho or any other servers.** Most of these clients are detectable and thus prohibited on other servers. 
