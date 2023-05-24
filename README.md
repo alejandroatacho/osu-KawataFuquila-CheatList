@@ -2,7 +2,7 @@
   <h1>🎮 Osu Kawata/Fuquila Cheat List 🎮</h1>
 </div>
 
-A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be warned: use of these cheats on the main server can will to a ban.
+A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be warned: use of these cheats on the main server can lead to a ban._
 
 ## Table of Contents
 - [Cheat List](#cheat-list)
@@ -23,7 +23,7 @@ Below are clients designed for use in the Kawata server and Fuquila. 🚫 **Plea
 
 For those who wish to explore cheating in in the mentioned approved servers (Kawata/Fuquila) , the following clients are often employed. Note that certain clients may require a patch due to newer server infrastructure.
 
-Before deploying these clients, please familiarize yourself with the usage rules at: [Kawata Rules](https://kawata.pw/doc/rules) or [Fuquila](https://fuquila.net/doc/rules) or check there Discord rules channel.
+Before deploying these clients, please familiarize yourself with the usage rules at: [Kawata Rules](https://kawata.pw/doc/rules) or [Fuquila](https://fuquila.net/doc/rules) or check their Discord rules channel.
 
 ### 🎯 Abypass <a name="abypass"></a>
 _Crafted by @Aochi#0502._
@@ -68,4 +68,5 @@ Download Links:
 - [**Main Link**](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
 - [**Alternate Link**](https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe)
 
-⚠️ **NOTE:** Most of the cheats and clients enumerated above are not supported by our server.
+## ⚠️ Disclaimer <a name="disclaimer"></a>
+Use these cheats and clients at your own risk. While they are curated for use on Kawata and Fuquila servers, we bear no responsibility for any consequences resulting from their use. Always abide by the rules and guidelines set by the server administrators and never think of even using these on the official server called Bancho.
