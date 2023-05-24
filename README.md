@@ -11,7 +11,7 @@ Fuquila server: https://osu.fuquila.net/
 Use these cheats and clients at your own risk. While they are curated for use on Kawata and Fuquila servers, we bear no responsibility for any consequences resulting from their use. Always abide by the rules and guidelines set by the server administrators and never think of even using these on the official server called Bancho.
 
 ## Table of Contents
-- [Cheat List](#cheat-list)
+- [Most Used Cheats 2023](#cheat-list)
 - [Client List](#kawata-client-list)
   - [Abypass](#abypass)
   - [Skoot.er](#skooter)
