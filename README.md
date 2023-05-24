@@ -6,7 +6,7 @@ A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be 
 
 ## Table of Contents
 - [Cheat List](#cheat-list)
-- [Kawata Client List](#kawata-client-list)
+- [Client List](#kawata-client-list)
   - [Abypass](#abypass)
   - [Skoot.er](#skooter)
   - [Ainu](#ainu)
@@ -18,7 +18,7 @@ A curated list of cheats exclusively for the **Kawata server for osu!** ❗ _Be 
 - [**osu!rx 2.0**](https://www.mpgh.net/forum/showthread.php?t=1538659) - Redesigned with Bypass.
 - [**AQN no login**](https://github.com/rumoi/AQN_nologin)
 
-## 📦 Kawata Client List <a name="kawata-client-list"></a>
+## 📦Client List <a name="kawata-client-list"></a>
 Below are clients designed for use in the Kawata server and Fuquila. 🚫 **Please refrain from using these clients in bancho or any other servers.** Most of these clients are detectable and thus prohibited on other servers. 
 
 For those who wish to explore cheating in in the mentioned approved servers (Kawata/Fuquila) , the following clients are often employed. Note that certain clients may require a patch due to newer server infrastructure.
