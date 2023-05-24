@@ -21,7 +21,8 @@ Use these cheats and clients at your own risk. While they are curated for use on
   - [Patched osu 20220424](#patched-osu-20220424)
 
 ## 🛠️ Most Used Cheats 2023 *Work In Progress* <a name="cheat-list"></a>
-- [**Main Link**](https://abypass.fumo.lol/updater) - Overall good client to have a seperate osu official client and a "cheating" client for these private servers
+- [**Abypass**](https://abypass.fumo.lol/updater) - Overall good client to have a seperate osu official client and a "cheating" client for these private servers
+- [**Maple**](https://maple.software/)
 - [**osu!rx 2.0**](https://www.mpgh.net/forum/showthread.php?t=1538659) - Redesigned with Bypass.
 - [**AQN no login**](https://github.com/rumoi/AQN_nologin) - can crash, but premium went to free 
 
