@@ -31,7 +31,7 @@ For those who wish to explore cheating in in the mentioned approved servers (Kaw
 Before deploying these clients, please familiarize yourself with the usage rules at: [Kawata Rules](https://kawata.pw/doc/rules) or [Fuquila](https://fuquila.net/doc/rules) or check their Discord rules channel.
 
 ### 🎯 Abypass <a name="abypass"></a>
-_Crafted by @Aochi#0502._
+_Crafted by @Aochi._
 
 Download Links: 
 - [**Main Link**](https://abypass.fumo.lol/updater)
