@@ -4,6 +4,9 @@
 
 A curated list of cheats exclusively for the **Kawata/Fuquila server for osu!** ❗ _Be warned: use of these cheats on the main server can lead to a ban._
 
+Kawata server: https://kawata.pw/
+Fuquila server: https://osu.fuquila.net/
+
 ## ⚠️ Disclaimer <a name="disclaimer"></a>
 Use these cheats and clients at your own risk. While they are curated for use on Kawata and Fuquila servers, we bear no responsibility for any consequences resulting from their use. Always abide by the rules and guidelines set by the server administrators and never think of even using these on the official server called Bancho.
 
