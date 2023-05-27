@@ -47,7 +47,7 @@ _Developed by Aoba Suzukaze, VacCat, Chewy/Pythr._
 
 Download Links: 
 - [**Main Link**](https://skooter.shibe.lol/)
-- [**Kawata Patch**](https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe) _(Required to connect and increased Aim Correction)_
+- [**Kawata Patch**](https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe) _(Required to connect and for increased Aim Correction)_
 - [**Kawata skooter_new**](https://cdn.discordapp.com/attachments/883824772021108736/1083581690284359841/skooternew.zip) _for people that have issues opening skooter_
 
 ### 🎯 Ainu <a name="ainu"></a>
