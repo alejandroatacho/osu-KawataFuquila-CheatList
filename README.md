@@ -39,7 +39,7 @@ _Created by Chewy/Pythr, Developed by Aochi._
 
 Download Links: 
 - [**Main Link**](https://abypass.fumo.lol/updater)
-- [**Mirror 1**](https://api.upload.systems/images/KZ5Kk0wV/download)
+- [**Mirror 1**](https://api.upload.systems/images/rCJYdmIR/download)
 - [**Discord/Support**](https://discord.gg/RFj2839kbw)
 
 ### 🎯 Skoot.er <a name="skooter"></a>
