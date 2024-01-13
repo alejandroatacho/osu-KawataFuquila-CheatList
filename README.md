@@ -39,7 +39,7 @@ _Created by Chewy/Pythr, Developed by Aochi._
 
 Download Links: 
 - [**Main Link**](https://abypass.fumo.lol/updater)
-- [**Mirror 1**](https://cute.cat-girls.club/u/07IikF.zip)
+- [**Mirror 1**](https://cute.cat-girls.club/u/logytbz.zip)
 - [**Discord/Support**](https://discord.gg/RFj2839kbw)
 
 ### 🎯 Skoot.er <a name="skooter"></a>
