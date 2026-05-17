@@ -40,6 +40,7 @@
   - [Patched osu! b20220424](#patched-osu)
 - [Play legit?](#play-legit)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Active Clients
 
@@ -238,6 +239,67 @@ This is a curated archive. PRs welcome for:
 - Fresh virus-analysis links (Hybrid Analysis, VirusTotal)
 
 PRs adding **new actively-developed cheat clients** are reviewed case-by-case, so please open an issue first. Every download link must be paired with a virus-scan link.
+
+<a name="contributors"></a>
+## Contributors
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/alejandroatacho">
+        <img src="https://github.com/alejandroatacho.png" width="80" alt="alejandroatacho"><br>
+        <sub><b>alejandroatacho</b></sub>
+      </a>
+    </td>
+    <td>
+      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Kawata Administrator, Gatari, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/7ez">
+        <img src="https://github.com/7ez.png" width="80" alt="Aochi"><br>
+        <sub><b>Aochi</b></sub>
+      </a>
+    </td>
+    <td>
+      Original owner of Fuquila and <a href="#arc">Arc</a>; now maintains Arc and is a Kawata alumni. Contributor to many other osu! projects.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/Xyrohh">
+        <img src="https://github.com/Xyrohh.png" width="80" alt="Hugo (Xyrohh)"><br>
+        <sub><b>Hugo (Xyrohh)</b></sub>
+      </a>
+    </td>
+    <td>
+      Editor, Co-Owner, and Global Community Manager at <a href="https://kawata.pw">kawata.pw</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/iotazz">
+        <img src="https://github.com/iotazz.png" width="80" alt="iotazz (Aleks)"><br>
+        <sub><b>iotazz (Aleks)</b></sub>
+      </a>
+    </td>
+    <td>
+      Original Cheat hunter and Researcher; Kawata Staff alumni.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/TheFantasticLoki">
+        <img src="https://github.com/TheFantasticLoki.png" width="80" alt="TheFantasticLoki"><br>
+        <sub><b>TheFantasticLoki</b></sub>
+      </a>
+    </td>
+    <td>
+      Owner and Lead Developer of <a href="https://kawata.pw">Kawata</a> and the Aeris client. Indirect contributor — the upstream Kawata docs are this archive's source.
+    </td>
+  </tr>
+</table>
 
 ---
 
