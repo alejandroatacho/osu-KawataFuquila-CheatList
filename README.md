@@ -21,6 +21,7 @@
   - [Ainu](#ainu)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
+- [Play legit?](#play-legit)
 - [Contributing](#contributing)
 
 ## Active Clients
@@ -171,6 +172,17 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archival snapshot
 - **Download:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
 - **Notes:** The alternate Discord CDN mirror was removed after going offline in 2025.
+
+<a name="play-legit"></a>
+## Play legit?
+
+The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai:
+
+- [**Beatmap Mirror**](https://hinamizawa.ai/osu/beatmaps/) — Search and download. PP on every card across 14 mod combos. Leaderboards, fail graphs, background downloads. 10 cascading mirror sources, all 4 game modes.
+- [**PP Farm Maps**](https://hinamizawa.ai/osu/pp-maps/) — 144,000+ ranked beatmaps with pre-calculated PP for 14 mod combinations. Filter by PP range, star rating, BPM, mode.
+- [**Beatmap Packs**](https://hinamizawa.ai/osu/map-packs/) — 3,750+ curated packs across 7 categories (Standard, Featured Artist, Tournament, Loved, Spotlights, Theme, Artist), 263,000+ difficulties with PP per difficulty.
+
+No login required.
 
 ## Contributing
 
