@@ -45,7 +45,7 @@
 ## Active Clients
 
 <a name="kawata-aeris"></a>
-### Kawata / Aeris
+### [Kawata](https://kawata.pw) / Aeris
 
 <div align="left">
   <a href="https://kawata.pw">
@@ -252,7 +252,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Kawata Administrator, Gatari, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now <a href="https://kawata.pw">Kawata</a> Administrator, Gatari, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
     </td>
   </tr>
   <tr>
@@ -263,7 +263,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Original owner of Fuquila and <a href="#arc">Arc</a>; now maintains Arc and is a Kawata alumni. Contributor to many other osu! projects.
+      Original owner of Fuquila and <a href="#arc">Arc</a>; now maintains Arc and is a <a href="https://kawata.pw">Kawata</a> alumni. Contributor to many other osu! projects.
     </td>
   </tr>
   <tr>
@@ -285,7 +285,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Original Cheat hunter and Researcher; Kawata Staff alumni.
+      Original Cheat hunter and Researcher; <a href="https://kawata.pw">Kawata</a> Staff alumni.
     </td>
   </tr>
   <tr>
@@ -296,7 +296,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner and Lead Developer of <a href="https://kawata.pw">Kawata</a> and the Aeris client. Indirect contributor — the upstream Kawata docs are this archive's source.
+      Owner and Lead Developer of <a href="https://kawata.pw">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw">Kawata</a> docs are this archive's source.
     </td>
   </tr>
 </table>
