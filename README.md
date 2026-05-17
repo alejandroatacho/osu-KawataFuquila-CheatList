@@ -45,15 +45,11 @@
 ## Active Clients
 
 <a name="kawata-aeris"></a>
-### Aeris - [Kawata](https://kawata.pw)
+### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
 
 <div align="left">
   <a href="https://kawata.pw">
     <img src="public/aeris.png" alt="Aeris client logo" width="160">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://kawata.pw">
-    <img src="public/kawata.png" alt="Kawata" width="100">
   </a>
 </div>
 
