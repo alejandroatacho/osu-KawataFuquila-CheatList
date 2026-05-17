@@ -49,7 +49,11 @@
 
 <div align="left">
   <a href="https://kawata.pw">
-    <img src="public/kawata.png" alt="Kawata" width="140">
+    <img src="public/aeris.png" alt="Aeris client logo" width="160">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kawata.pw">
+    <img src="public/kawata.png" alt="Kawata" width="100">
   </a>
 </div>
 
