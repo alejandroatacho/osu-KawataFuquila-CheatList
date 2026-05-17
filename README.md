@@ -37,6 +37,12 @@
 <a name="kawata-aeris"></a>
 ### Kawata / Aeris
 
+<div align="left">
+  <a href="https://kawata.pw">
+    <img src="https://kawata.pw/static/images/logo.png" alt="Kawata" width="140">
+  </a>
+</div>
+
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active · Public beta · Free
@@ -74,7 +80,7 @@
 <a name="arc"></a>
 ### Arc
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/7ez">
     <img src="https://avatars.githubusercontent.com/u/36964527?v=4" alt="Aochi" width="140">
   </a>
@@ -121,6 +127,12 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <a name="aqn"></a>
 ### AQN
+
+<div align="left">
+  <a href="https://github.com/rumoi/AQN_nologin">
+    <img src="public/aqn.png" alt="AQN" width="140">
+  </a>
+</div>
 
 > _Now free; crashes on the current osu! version._
 
