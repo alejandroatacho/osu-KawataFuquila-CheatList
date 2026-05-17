@@ -62,7 +62,7 @@ _Free hack by **mrflashstudio**, updated by **Sasuke**._
 
 **Setup:**
 1. osu!rx does **not** run on the latest osu!. Download [b20220424](https://osekai.net/snapshots/versions/b20220424/b20220424.zip).
-2. Apply [this patched exe](https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe) (raises TLS version).
+2. Apply a TLS-patched osu.exe — the [original Discord CDN mirror](https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe) is now inactive; ask MPGH or the osu!rx Discord for a current source.
 3. Create a `_STAGING` file in your osu! folder to block auto-updates.
 
 ---
@@ -108,4 +108,4 @@ _By **Aoba Suzukaze**, edited by **Chewy/Pythr**. No longer maintained — repla
 _Base client for osu!rx and other legacy hacks._
 
 - [Main link](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
-- [Alternate link](https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe)
+- ~~[Alternate link](https://cdn.discordapp.com/attachments/598976475579809860/1082594775988981760/osu.exe)~~ *(Discord CDN link inactive)*
