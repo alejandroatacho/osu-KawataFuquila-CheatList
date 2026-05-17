@@ -139,7 +139,7 @@
 _Discontinued or no-longer-maintained clients, kept here for historical reference. Most downloads will be broken or unsafe by now._
 
 > [!WARNING]
-> Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything.
+> Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
 
 <a name="aqn"></a>
 ### AQN
@@ -224,7 +224,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai:
+The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai — strictly non-cheating utilities for legit play and exploration:
 
 - [**Beatmap Mirror**](https://hinamizawa.ai/osu/beatmaps/) — Search and download. PP on every card across 14 mod combos. Leaderboards, fail graphs, background downloads. 10 cascading mirror sources, all 4 game modes.
 - [**PP Farm Maps**](https://hinamizawa.ai/osu/pp-maps/) — 144,000+ ranked beatmaps with pre-calculated PP for 14 mod combinations. Filter by PP range, star rating, BPM, mode.
