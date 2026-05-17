@@ -27,7 +27,7 @@
 ## Contents
 
 - [Active Clients](#active-clients)
-  - [Kawata / Aeris](#kawata-aeris)
+  - [Aeris - Kawata](#kawata-aeris)
   - [Maple](#maple)
   - [Arc](#arc)
   - [osu!rx](#osu-rx)
@@ -45,7 +45,7 @@
 ## Active Clients
 
 <a name="kawata-aeris"></a>
-### [Kawata](https://kawata.pw) / Aeris
+### Aeris - [Kawata](https://kawata.pw)
 
 <div align="left">
   <a href="https://kawata.pw">
