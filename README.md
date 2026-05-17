@@ -4,8 +4,14 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Updated 2026-05-17</em></p>
+  <p><em>Created 2023-05-24 · Updated 2026-05-17</em></p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/stargazers"><img src="https://img.shields.io/github/stars/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
+  <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
+</p>
 
 > [!CAUTION]
 > Cheats are detectable on Bancho and most private servers. Accounts have been banned for using every client listed here. This directory is preserved for educational and archival purposes. Links to legacy clients are kept for historical reference, not endorsement. Use at your own risk.
@@ -232,3 +238,7 @@ This is a curated archive. PRs welcome for:
 - Fresh virus-analysis links (Hybrid Analysis, VirusTotal)
 
 PRs adding **new actively-developed cheat clients** are reviewed case-by-case, so please open an issue first. Every download link must be paired with a virus-scan link.
+
+---
+
+<p align="center"><sub>Information mirrored from <a href="https://kawata.pw">Kawata</a>'s in-game cheat docs · Legacy entries preserved from the 2023 archive.</sub></p>
