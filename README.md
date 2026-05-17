@@ -147,7 +147,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Now free; crashes on the current osu! version._
 
 - **Status:** Archived · Broken on current osu!
-- **Maintainer:** Rumoi (unmaintained)
+- **Maintainer:** <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle"> Rumoi</a> (unmaintained)
 - **Download:**
   - [theaquila.net](https://theaquila.net/) *(legacy site)*
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
