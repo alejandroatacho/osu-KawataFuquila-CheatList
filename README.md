@@ -56,7 +56,7 @@
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active · Public beta · Free
-- **Maintainer:** TheFantasticLoki (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from Maple Syrup and Chewy/Pythr)
+- **Maintainer:** TheFantasticLoki (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and <a href="https://github.com/Pytxhr"><img src="https://github.com/Pytxhr.png" width="28" align="middle" alt="Chewy/Pythr avatar"> Chewy/Pythr</a>)
 - **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(public beta)*
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
@@ -164,7 +164,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Successor to Skoot.er, mostly discontinued. Downloads have been lost._
 
 - **Status:** Archived · Downloads lost
-- **Maintainer:** Chewy/Pythr (previously Aochi; unmaintained)
+- **Maintainer:** [Chewy/Pythr](https://github.com/Pytxhr) (previously <a href="https://github.com/7ez"><img src="https://github.com/7ez.png" width="20" align="middle" alt="Aochi avatar"> Aochi</a>; unmaintained)
 - **Download:**
   - [abypass.fumo.lol/updater](https://abypass.fumo.lol/updater) *(unverified)*
   - [cute.cat-girls.club mirror](https://cute.cat-girls.club/u/logytbz.zip)
@@ -183,7 +183,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Predecessor to Abypass. No longer maintained._
 
 - **Status:** Archived · Unmaintained
-- **Maintainer:** Aoba Suzukaze, VacCat, Chewy/Pythr (unmaintained)
+- **Maintainer:** Aoba Suzukaze, VacCat, [Chewy/Pythr](https://github.com/Pytxhr) (unmaintained)
 - **Download:**
   - [skooter.shibe.lol](https://skooter.shibe.lol/) *(main link)*
   - [Patched build](https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe) *(Discord CDN, for increased Aim Correction)*
@@ -195,7 +195,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Predecessor to Skooter and Abypass. No longer maintained._
 
 - **Status:** Archived · Unmaintained
-- **Maintainer:** Aoba Suzukaze; edits by Chewy/Pythr (unmaintained)
+- **Maintainer:** Aoba Suzukaze; edits by [Chewy/Pythr](https://github.com/Pytxhr) (unmaintained)
 - **Download:**
   - [Main link](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) *(Discord CDN)*
   - [Alternate version](https://cdn.discordapp.com/attachments/837034085478039574/902318926980071434/ainu-cheat_1.exe) *(Discord CDN)*
