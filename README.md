@@ -56,7 +56,7 @@
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active · Public beta · Free
-- **Maintainer:** TheFantasticLoki (originally Panini Céleste; contributions from Maple Syrup and Chewy/Pythr)
+- **Maintainer:** TheFantasticLoki (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle"> Panini Céleste</a>; contributions from Maple Syrup and Chewy/Pythr)
 - **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(public beta)*
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
@@ -75,11 +75,17 @@
 <a name="maple-client"></a>
 ### Maple
 
+<div align="left">
+  <a href="https://maple.software/">
+    <img src="public/maple.svg" alt="Maple" width="140">
+  </a>
+</div>
+
 > _Paid hack with no built-in limits, actively maintained._
 
 - **Status:** Active · Paid
 - **Maintainer:** Maple Syrup
-- **Download:** [maple.software](https://maple.software/)
+- **Download:** <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle"> maple.software</a>
 - **Discord:** [discord.gg/P9Yn8FfC2v](https://discord.com/invite/P9Yn8FfC2v)
 - **Cheats:**
   - Aim Assist (3 versions)
@@ -147,7 +153,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Now free; crashes on the current osu! version._
 
 - **Status:** Archived · Broken on current osu!
-- **Maintainer:** <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle"> Rumoi</a> (unmaintained)
+- **Maintainer:** <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (unmaintained)
 - **Download:**
   - [theaquila.net](https://theaquila.net/) *(legacy site)*
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
