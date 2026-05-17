@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>🎮 osu! Cheat List 🎮</h1>
+  <img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
+  <h1>
+    <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
+  </h1>
   <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
   <p><em>Updated 2026-05-17</em></p>
 </div>
@@ -217,6 +220,10 @@ The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai:
 No login required.
 
 ## Contributing
+
+<div align="center">
+  <img src="public/firedigger.png" alt="firedigger meme" width="240">
+</div>
 
 This is a curated archive. PRs welcome for:
 
