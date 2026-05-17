@@ -35,7 +35,7 @@ _Originally developed by **Panini Céleste**. Currently maintained by **TheFanta
 ---
 
 ## 🎯 Maple <a name="maple"></a><a name="maple-client"></a>
-_**Paid** hack by **Maple Syrup**. Very powerful, constantly updated. Best Aim Assist + Relax in the community. No built-in limits._
+_**Paid** hack by **Maple Syrup**. Constantly updated. No built-in limits._
 
 **Download:** https://maple.software/  
 **Discord:** https://discord.com/invite/P9Yn8FfC2v
@@ -87,18 +87,14 @@ _Successor to Skoot.er by **Chewy/Pythr**, previously maintained by Aochi. **Mos
 
 **Other:** In-game PP counter · Built-in updater · Server switcher
 
----
-
-## 🎯 Skooter <a name="skooter"></a>
+### 🎯 Skooter <a name="skooter"></a>
 _By **Aoba Suzukaze, VacCat, Chewy/Pythr**. No longer maintained — replaced by Abypass._
 
 - [Main link](https://skooter.shibe.lol/)
 - [Patched build](https://cdn.discordapp.com/attachments/598976475579809860/1082588578858680330/skooter_b5.exe) *(for increased Aim Correction)*
 - [skooter_new](https://cdn.discordapp.com/attachments/883824772021108736/1083581690284359841/skooternew.zip) *if Skooter won't open*
 
----
-
-## 🎯 Ainu <a name="ainu"></a>
+### 🎯 Ainu <a name="ainu"></a>
 _By **Aoba Suzukaze**, edited by **Chewy/Pythr**. No longer maintained — replaced by Skooter, then Abypass._
 
 > ⚠️ Only download from trusted sources (MPGH, the Skoot.er Discord, or the Ainu Cheaters Discord). Copies from elsewhere are known to contain unsafe modifications.
