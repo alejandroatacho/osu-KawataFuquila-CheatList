@@ -7,6 +7,14 @@
 > [!CAUTION]
 > Cheats are detectable on Bancho and most private servers. Accounts have been banned for using every client listed here. This directory is preserved for educational and archival purposes. Links to legacy clients are kept for historical reference, not endorsement. Use at your own risk.
 
+<div align="center">
+  <a href="https://kawata.pw">
+    <img src="https://kawata.pw/static/images/logo.png" alt="Kawata" width="180">
+  </a>
+  <p><strong>The only osu! private server where these cheat clients are allowed is <a href="https://kawata.pw">kawata.pw</a>.</strong></p>
+  <p>Bancho and every other private server detect and ban these clients on score submission.</p>
+</div>
+
 ## Contents
 
 - [Active Clients](#active-clients)
@@ -66,10 +74,16 @@
 <a name="arc"></a>
 ### Arc
 
+<div align="center">
+  <a href="https://github.com/7ez">
+    <img src="https://avatars.githubusercontent.com/u/36964527?v=4" alt="Aochi" width="140">
+  </a>
+</div>
+
 > _Standalone osu! client by Aochi._
 
 - **Status:** Active · Free
-- **Maintainer:** Aochi
+- **Maintainer:** [Aochi](https://github.com/7ez)
 - **Download:** [m1.aochi.uk/r/osu!.exe](https://m1.aochi.uk/r/osu!.exe)
 - **Cheats:**
   - Maple Aim Assist (V1–V3)
@@ -175,6 +189,12 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <a name="play-legit"></a>
 ## Play legit?
+
+<div align="center">
+  <a href="https://hinamizawa.ai">
+    <img src="https://hinamizawa.ai/logoFix.png" alt="Hinamizawa" width="180">
+  </a>
+</div>
 
 The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai:
 
