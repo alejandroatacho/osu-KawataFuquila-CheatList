@@ -56,7 +56,7 @@
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active · Public beta · Free
-- **Maintainer:** TheFantasticLoki (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle"> Panini Céleste</a>; contributions from Maple Syrup and Chewy/Pythr)
+- **Maintainer:** TheFantasticLoki (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from Maple Syrup and Chewy/Pythr)
 - **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(public beta)*
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
@@ -85,7 +85,7 @@
 
 - **Status:** Active · Paid
 - **Maintainer:** Maple Syrup
-- **Download:** <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle"> maple.software</a>
+- **Download:** <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> maple.software</a>
 - **Discord:** [discord.gg/P9Yn8FfC2v](https://discord.com/invite/P9Yn8FfC2v)
 - **Cheats:**
   - Aim Assist (3 versions)
