@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://kawata.pw">
-    <img src="https://kawata.pw/static/images/logo.png" alt="Kawata" width="180">
+    <img src="public/kawata.png" alt="Kawata" width="180">
   </a>
   <p><strong>The only osu! private server where these cheat clients are allowed is <a href="https://kawata.pw">kawata.pw</a>.</strong></p>
   <p>Bancho and every other private server detect and ban these clients on score submission.</p>
@@ -39,7 +39,7 @@
 
 <div align="left">
   <a href="https://kawata.pw">
-    <img src="https://kawata.pw/static/images/logo.png" alt="Kawata" width="140">
+    <img src="public/kawata.png" alt="Kawata" width="140">
   </a>
 </div>
 
@@ -204,7 +204,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <div align="center">
   <a href="https://hinamizawa.ai">
-    <img src="https://hinamizawa.ai/logoFix.png" alt="Hinamizawa" width="180">
+    <img src="public/hinai.png" alt="Hinamizawa" width="180">
   </a>
 </div>
 
