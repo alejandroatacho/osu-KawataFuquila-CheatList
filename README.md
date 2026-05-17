@@ -258,7 +258,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now <a href="https://kawata.pw">Kawata</a> Administrator, Gatari, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer (frontend + backend) at <a href="https://kawata.pw">Kawata</a>, Moderator + Overwatcher at <a href="https://gatari.pw">Gatari</a>, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
     </td>
   </tr>
   <tr>
@@ -269,7 +269,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Original owner of Fuquila and <a href="#arc">Arc</a>; now maintains Arc and is a <a href="https://kawata.pw">Kawata</a> alumni. Contributor to many other osu! projects.
+      Original owner of Fuquila and alumni Backend Developer at <a href="https://kawata.pw">Kawata</a>. Now Solo Developer and Maintainer of <a href="#arc">Arc</a>, with many contributions to other osu! projects around the community.
     </td>
   </tr>
   <tr>
@@ -280,7 +280,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Editor, Co-Owner, and Global Community Manager at <a href="https://kawata.pw">kawata.pw</a>.
+      Co-Owner, Global Community Manager, and Score Hunt Event Manager / Host / Planner at <a href="https://kawata.pw">kawata.pw</a>.
     </td>
   </tr>
   <tr>
