@@ -61,12 +61,17 @@
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
   - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
-  - Relax Hack (SkooterRX)
+  - Relax Hack (SkooterRX Improved)
   - Timewarp (rate & multiplier)
   - Automatic CS Changer · AR Changer · HD Remover · FL Remover
 - **Beta features:**
   - Maple Aim Assist V1 + V2 (submitting); V3 and L-V1 not submitting
   - Dedicated input thread (aim only, 1/2/4/8/16K FPS options)
+- **Dev features:**
+  - Dev version has been updated to not only 64bit but modern .net 8
+  - Slightly better windows integration for shortcuts and notifications.
+  - Can run more stable and smooth depending on system
+  - Very experimental, performance is not guarenteed depending on system
 
 > [!TIP]
 > Add the install folder as an antivirus exclusion to prevent issues.
