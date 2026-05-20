@@ -68,10 +68,10 @@
   - Maple Aim Assist V1 + V2 (submitting); V3 and L-V1 not submitting
   - Dedicated input thread (aim only, 1/2/4/8/16K FPS options)
 - **Dev features:**
-  - Dev version has been updated to not only 64bit but modern .net 8
-  - Slightly better windows integration for shortcuts and notifications.
-  - Can run more stable and smooth depending on system
-  - Very experimental, performance is not guarenteed depending on system
+  - Dev version has been updated to 64-bit and modern .NET 8.
+  - Slightly better Windows integration for shortcuts and notifications.
+  - Can run more stably and smoothly depending on the system.
+  - Very experimental; performance is not guaranteed and depends on the system.
 
 > [!TIP]
 > Add the install folder as an antivirus exclusion to prevent issues.
