@@ -57,7 +57,7 @@
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Active · Public beta · Free
-- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and <a href="https://github.com/Pytxhr"><img src="https://github.com/Pytxhr.png" width="28" align="middle" alt="Chewy/Pythr avatar"> Chewy/Pythr</a>)
+- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and [Chewy/Pythr](https://github.com/Pytxhr))
 - **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(public beta)*
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
