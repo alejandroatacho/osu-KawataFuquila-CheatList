@@ -36,6 +36,7 @@
   - [Abypass](#abypass)
   - [Skooter](#skooter)
   - [Ainu](#ainu)
+  - [freedom](#freedom)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
 - [Play legit?](#play-legit)
@@ -207,6 +208,33 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 > [!CAUTION]
 > Only download from trusted sources (MPGH, the Skoot.er Discord, or the Ainu Cheaters Discord). Copies from elsewhere are known to contain unsafe modifications.
+
+<a name="freedom"></a>
+### freedom
+
+<div align="left">
+  <img src="public/freedomMirrorImage.png" alt="freedom" width="160">
+</div>
+
+> _DLL-injected osu! cheat by Ciremun, originally posted on UnKnoWnCheaTs in 2023. GitHub repo offline; only the forum mirror remains._
+
+- **Status:** Archived · Unmaintained · GitHub offline
+- **Maintainer:** [Ciremun](https://github.com/Ciremun) (account/repo offline · unmaintained)
+- **Download:**
+  - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(forum mirror)*
+  - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(repo offline)*
+- **Source thread:** [UnKnoWnCheaTs — osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
+- **Format:** DLL — inject with any injector (Extreme Injector recommended)
+- **Cheats:**
+  - Aimbot
+  - Relax Hack
+  - Timewarp
+  - Replay
+  - Mods (Unmod Flashlight, Score Multiplier)
+  - Misc
+
+> [!WARNING]
+> The GitHub repo is offline. Only the UnKnoWnCheaTs attachment remains, and DLLs posted on cheat forums frequently carry tampered builds — scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
 
 ## Resources
 
