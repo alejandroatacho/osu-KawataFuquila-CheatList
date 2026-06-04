@@ -315,7 +315,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer (frontend + backend) at <a href="https://kawata.pw">Kawata</a>, Moderator + Overwatcher at <a href="https://gatari.pw">Gatari</a>, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a>, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
     </td>
   </tr>
   <tr>
@@ -359,7 +359,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner and Lead Developer of <a href="https://kawata.pw">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw">Kawata</a> docs are this archive's source.
+      Owner and Lead Developer of <a href="https://kawata.pw">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw">Kawata</a> docs are also one of this archive's source of information.
     </td>
   </tr>
 </table>
