@@ -306,7 +306,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**freedom**](#freedom) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UKC](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
 
 
-<sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance (works once back online) &nbsp;·&nbsp; ⚪ Legacy / archived</sub>
+<sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance &nbsp;·&nbsp; ⚪ Legacy / archived</sub>
 <hr>
 
 <a name="play-legit"></a>
