@@ -31,8 +31,6 @@
 
 ## Contents
 
-- [At a glance](#at-a-glance)
-- [Feature comparison](#feature-comparison)
 - [Active Clients](#active-clients)
   - [Arc](#arc)
   - [osu!rx](#osu-rx)
@@ -47,6 +45,7 @@
   - [freedom](#freedom)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
+- [Feature comparison](#feature-comparison)
 - [Play legit?](#play-legit)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
