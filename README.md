@@ -11,6 +11,11 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/stargazers"><img src="https://img.shields.io/github/stars/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Stars"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/clients-9-1f6feb?style=flat-square" alt="9 clients">
+  <img src="https://img.shields.io/badge/2_active-2ea44f?style=flat-square" alt="2 active">
+  <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
+  <img src="https://img.shields.io/badge/5_archived-6e7681?style=flat-square" alt="5 archived">
 </p>
 
 > [!CAUTION]
@@ -26,6 +31,8 @@
 
 ## Contents
 
+- [At a glance](#at-a-glance)
+- [Feature comparison](#feature-comparison)
 - [Active Clients](#active-clients)
   - [Arc](#arc)
   - [osu!rx](#osu-rx)
@@ -44,7 +51,38 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-## Active Clients
+
+## Feature comparison
+
+| Feature | Arc | osu!rx | Aeris | Maple |
+|---|:---:|:---:|:---:|:---:|
+| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
+| Relax Hack | ✅ | ✅ | ✅ | ✅ |
+| Timewarp | ✅ | ❌ | ✅ | ✅ |
+| AR / CS Changer | ✅ | ❌ | ✅ | ✅ |
+| HD / FL Remover | ✅ | ❌ | ✅ | ✅ |
+| Cost | Free | Free | Free | 💰 Paid |
+| Works on current osu! | ✅ | ❌ | 🟠 | 🟠 |
+
+
+| Client | Status | Cost | Type | Current osu! | Download |
+|---|---|:---:|:---:|:---:|:---:|
+| [**Arc**](#arc) | ![](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Link](https://m1.aochi.uk/r/osu!.exe) |
+| [**osu!rx**](#osu-rx) | ![](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | b20220424 | ❌ | [Thread](https://www.mpgh.net/forum/showthread.php?t=1538659) |
+| [**Aeris**](#kawata-aeris) | ![](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | _offline_ |
+| [**Maple**](#maple) | ![](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
+| [**AQN**](#aqn) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Repo](https://github.com/rumoi/AQN_nologin) |
+| [**Abypass**](#abypass) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Mirror](https://abypass.fumo.lol/updater) |
+| [**Skooter**](#skooter) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Site](https://skooter.shibe.lol/) |
+| [**Ainu**](#ainu) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
+| [**freedom**](#freedom) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UKC](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
+
+
+<sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance (works once back online) &nbsp;·&nbsp; ⚪ Legacy / archived</sub>
+<hr>
+
+<a name="active-clients"></a>
+## <img src="https://img.shields.io/badge/🟢_ACTIVE_CLIENTS-2ea44f?style=for-the-badge" height="34" alt="Active Clients">
 
 <a name="arc"></a>
 ### Arc
@@ -87,7 +125,7 @@
 > The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
 
 <a name="under-maintenance"></a>
-## Under Maintenance
+## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
 
 _Clients that are temporarily down for updates — their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
 
@@ -163,7 +201,7 @@ _Clients that are temporarily down for updates — their information and cheats 
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 <a name="legacy-archive"></a>
-## Legacy / Archive
+## <img src="https://img.shields.io/badge/⚪_LEGACY_·_ARCHIVE-6e7681?style=for-the-badge" height="34" alt="Legacy / Archive">
 
 _Discontinued or no-longer-maintained clients, kept here for historical reference. Most downloads will be broken or unsafe by now._
 
