@@ -4,7 +4,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created 2023-05-24 · Updated 2026-05-28</em></p>
+  <p><em>Created 2023-05-24 · Updated 2026-06-04</em></p>
 </div>
 
 <p align="center">
@@ -27,10 +27,11 @@
 ## Contents
 
 - [Active Clients](#active-clients)
-  - [Aeris - Kawata](#kawata-aeris)
-  - [Maple](#maple)
   - [Arc](#arc)
   - [osu!rx](#osu-rx)
+- [Under Maintenance](#under-maintenance)
+  - [Aeris - Kawata](#kawata-aeris)
+  - [Maple](#maple)
 - [Legacy / Archive](#legacy-archive)
   - [AQN](#aqn)
   - [Abypass](#abypass)
@@ -44,60 +45,6 @@
 - [Contributors](#contributors)
 
 ## Active Clients
-
-<a name="kawata-aeris"></a>
-### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
-
-<div align="left">
-  <a href="https://kawata.pw">
-    <img src="public/aeris.png" alt="Aeris client logo" width="160">
-  </a>
-</div>
-
-> _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
-
-- **Status:** Active · Public beta · Free
-- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and [Chewy/Pythr](https://github.com/Pytxhr))
-- **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(public beta)*
-- **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
-- **Cheats:**
-  - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
-  - Relax Hack (SkooterRX Improved)
-  - Timewarp (rate & multiplier)
-  - Automatic CS Changer · AR Changer · HD Remover · FL Remover
-- **Beta features:**
-  - Maple Aim Assist V1 + V2 (submitting); V3 and L-V1 not submitting
-  - Dedicated input thread (aim only, 1/2/4/8/16K FPS options)
-- **Dev features:**
-  - Dev version has been updated to 64-bit and modern .NET 8.
-  - Slightly better Windows integration for shortcuts and notifications.
-  - Can run more stably and smoothly depending on the system.
-  - Very experimental; performance is not guaranteed and depends on the system.
-
-> [!TIP]
-> Add the install folder as an antivirus exclusion to prevent issues.
-
-<a name="maple"></a>
-<a name="maple-client"></a>
-### Maple
-
-<div align="left">
-  <a href="https://maple.software/">
-    <img src="public/maple.svg" alt="Maple" width="140">
-  </a>
-</div>
-
-> _Paid hack with no built-in limits, actively maintained._
-
-- **Status:** Active · Paid
-- **Maintainer:** Maple Syrup
-- **Download:** <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> maple.software</a>
-- **Discord:** [discord.gg/P9Yn8FfC2v](https://discord.com/invite/P9Yn8FfC2v)
-- **Cheats:**
-  - Aim Assist (3 versions)
-  - Relax Hack
-  - Timewarp
-  - AR Changer · CS Changer · HD Remover · FL Remover
 
 <a name="arc"></a>
 ### Arc
@@ -138,6 +85,82 @@
 
 > [!NOTE]
 > The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
+
+<a name="under-maintenance"></a>
+## Under Maintenance
+
+_Clients that are temporarily down for updates — their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
+
+<a name="kawata-aeris"></a>
+### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
+
+<div align="left">
+  <a href="https://kawata.pw">
+    <img src="public/aeris.png" alt="Aeris client logo" width="160">
+  </a>
+</div>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-under%20maintenance-orange?style=for-the-badge" alt="Under maintenance">
+  <img src="https://img.shields.io/badge/download-offline-critical?style=for-the-badge" alt="Download offline">
+  <img src="https://img.shields.io/badge/maintainer-relocating-blueviolet?style=for-the-badge" alt="Maintainer relocating">
+</p>
+
+> [!WARNING]
+> **Aeris is temporarily on hold.** ✈️ The owner and maintainer is in the middle of relocating to another country, so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
+
+> _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
+
+- **Status:** Under maintenance · Download offline (maintainer relocating) · Public beta · Free
+- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and [Chewy/Pythr](https://github.com/Pytxhr))
+- **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline — maintainer relocating)*
+- **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
+- **Cheats:**
+  - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
+  - Relax Hack (SkooterRX Improved)
+  - Timewarp (rate & multiplier)
+  - Automatic CS Changer · AR Changer · HD Remover · FL Remover
+- **Beta features:**
+  - Maple Aim Assist V1 + V2 (submitting); V3 and L-V1 not submitting
+  - Dedicated input thread (aim only, 1/2/4/8/16K FPS options)
+- **Dev features:**
+  - Dev version has been updated to 64-bit and modern .NET 8.
+  - Slightly better Windows integration for shortcuts and notifications.
+  - Can run more stably and smoothly depending on the system.
+  - Very experimental; performance is not guaranteed and depends on the system.
+
+> [!TIP]
+> Add the install folder as an antivirus exclusion to prevent issues.
+
+<a name="maple"></a>
+<a name="maple-client"></a>
+### Maple
+
+<div align="left">
+  <a href="https://maple.software/">
+    <img src="public/maple.svg" alt="Maple" width="140">
+  </a>
+</div>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-under%20maintenance-orange?style=for-the-badge" alt="Under maintenance">
+  <img src="https://img.shields.io/badge/availability-unavailable-critical?style=for-the-badge" alt="Unavailable to buy or use">
+</p>
+
+> [!IMPORTANT]
+> Maple is currently going through updates and is **unavailable to purchase or use** right now. The details below are preserved for reference and will apply again once the next build is released.
+
+> _Paid hack with no built-in limits, actively maintained._
+
+- **Status:** Under maintenance · Temporarily unavailable · Paid
+- **Maintainer:** Maple Syrup
+- **Download:** <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> maple.software</a> *(temporarily unavailable)*
+- **Discord:** [discord.gg/P9Yn8FfC2v](https://discord.com/invite/P9Yn8FfC2v)
+- **Cheats:**
+  - Aim Assist (3 versions)
+  - Relax Hack
+  - Timewarp
+  - AR Changer · CS Changer · HD Remover · FL Remover
 
 <a name="legacy-archive"></a>
 ## Legacy / Archive
@@ -262,6 +285,7 @@ The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai 
 - [**Beatmap Mirror**](https://hinamizawa.ai/osu/beatmaps/) — Search and download. PP on every card across 14 mod combos. Leaderboards, fail graphs, background downloads. 10 cascading mirror sources, all 4 game modes.
 - [**PP Farm Maps**](https://hinamizawa.ai/osu/pp-maps/) — 144,000+ ranked beatmaps with pre-calculated PP for 14 mod combinations. Filter by PP range, star rating, BPM, mode.
 - [**Beatmap Packs**](https://hinamizawa.ai/osu/map-packs/) — 3,750+ curated packs across 7 categories (Standard, Featured Artist, Tournament, Loved, Spotlights, Theme, Artist), 263,000+ difficulties with PP per difficulty.
+- [**Private Server List**](https://hinamizawa.ai/osu/servers/) — A directory of every osu! private server found online, with live stats. All are strictly non-cheating servers and will ban on sight if you cheat on score submission.
 
 No login required.
 
