@@ -51,36 +51,6 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-
-## Feature comparison
-
-| Feature | Arc | osu!rx | Aeris | Maple |
-|---|:---:|:---:|:---:|:---:|
-| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
-| Relax Hack | ✅ | ✅ | ✅ | ✅ |
-| Timewarp | ✅ | ❌ | ✅ | ✅ |
-| AR / CS Changer | ✅ | ❌ | ✅ | ✅ |
-| HD / FL Remover | ✅ | ❌ | ✅ | ✅ |
-| Cost | Free | Free | Free | 💰 Paid |
-| Works on current osu! | ✅ | ❌ | 🟠 | 🟠 |
-
-
-| Client | Status | Cost | Type | Current osu! | Download |
-|---|---|:---:|:---:|:---:|:---:|
-| [**Arc**](#arc) | ![](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Link](https://m1.aochi.uk/r/osu!.exe) |
-| [**osu!rx**](#osu-rx) | ![](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | b20220424 | ❌ | [Thread](https://www.mpgh.net/forum/showthread.php?t=1538659) |
-| [**Aeris**](#kawata-aeris) | ![](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | _offline_ |
-| [**Maple**](#maple) | ![](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
-| [**AQN**](#aqn) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Repo](https://github.com/rumoi/AQN_nologin) |
-| [**Abypass**](#abypass) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Mirror](https://abypass.fumo.lol/updater) |
-| [**Skooter**](#skooter) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Site](https://skooter.shibe.lol/) |
-| [**Ainu**](#ainu) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
-| [**freedom**](#freedom) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UKC](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
-
-
-<sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance (works once back online) &nbsp;·&nbsp; ⚪ Legacy / archived</sub>
-<hr>
-
 <a name="active-clients"></a>
 ## <img src="https://img.shields.io/badge/🟢_ACTIVE_CLIENTS-2ea44f?style=for-the-badge" height="34" alt="Active Clients">
 
@@ -308,6 +278,37 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archival snapshot
 - **Download:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
 - **Notes:** The alternate Discord CDN mirror was removed after going offline in 2025.
+
+<hr>
+
+## Feature comparison
+
+| Feature | Arc | osu!rx | Aeris | Maple |
+|---|:---:|:---:|:---:|:---:|
+| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
+| Relax Hack | ✅ | ✅ | ✅ | ✅ |
+| Timewarp | ✅ | ❌ | ✅ | ✅ |
+| AR / CS Changer | ✅ | ❌ | ✅ | ✅ |
+| HD / FL Remover | ✅ | ❌ | ✅ | ✅ |
+| Cost | Free | Free | Free | 💰 Paid |
+| Works on current osu! | ✅ | ❌ | 🟠 | 🟠 |
+
+
+| Client | Status | Cost | Type | Current osu! | Download |
+|---|---|:---:|:---:|:---:|:---:|
+| [**Arc**](#arc) | ![](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Link](https://m1.aochi.uk/r/osu!.exe) |
+| [**osu!rx**](#osu-rx) | ![](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | b20220424 | ❌ | [Thread](https://www.mpgh.net/forum/showthread.php?t=1538659) |
+| [**Aeris**](#kawata-aeris) | ![](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | _offline_ |
+| [**Maple**](#maple) | ![](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
+| [**AQN**](#aqn) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Repo](https://github.com/rumoi/AQN_nologin) |
+| [**Abypass**](#abypass) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Mirror](https://abypass.fumo.lol/updater) |
+| [**Skooter**](#skooter) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Site](https://skooter.shibe.lol/) |
+| [**Ainu**](#ainu) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
+| [**freedom**](#freedom) | ![](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UKC](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
+
+
+<sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance (works once back online) &nbsp;·&nbsp; ⚪ Legacy / archived</sub>
+<hr>
 
 <a name="play-legit"></a>
 ## Play legit?
