@@ -4,7 +4,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created 2023-05-24 · Updated 2026-06-04</em></p>
+  <p><em>Created May 24, 2023 · Updated June 5, 2026</em></p>
 </div>
 
 <p align="center">
@@ -113,8 +113,10 @@ _Clients that are temporarily down for updates — their information and cheats 
   <img src="https://img.shields.io/badge/maintainer-relocating-blueviolet?style=for-the-badge" alt="Maintainer relocating">
 </p>
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Aeris is temporarily on hold.** The owner and maintainer is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
+>
+> **`storage.kawata.pw` has been down since June 2, 2026.**
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
@@ -155,7 +157,9 @@ _Clients that are temporarily down for updates — their information and cheats 
 </p>
 
 > [!IMPORTANT]
-> Maple is currently going through updates and is **unavailable to purchase or use** right now. The details below are preserved for reference and will apply again once the next build is released.
+> Maple is currently going through updates and is **unavailable to purchase or use** right now — it is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
+>
+> **Under development since December 13, 2024 following a source-code leak (per the official Discord announcement).**
 
 > _Paid hack with no built-in limits, actively maintained._
 
@@ -353,7 +357,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a>, and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
     </td>
   </tr>
   <tr>
@@ -375,7 +379,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Co-Owner, Global Community Manager, and Score Hunt Event Manager / Host / Planner at <a href="https://kawata.pw">kawata.pw</a>.
+      Co-Owner, Global Community Manager, and Score Hunt Event Manager / Host / Planner at <a href="https://kawata.pw/u/13233">kawata.pw</a>.
     </td>
   </tr>
   <tr>
@@ -397,7 +401,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner and Lead Developer of <a href="https://kawata.pw">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw">Kawata</a> docs are also one of this archive's source of information.
+      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
     </td>
   </tr>
 </table>
