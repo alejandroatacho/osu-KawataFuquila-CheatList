@@ -4,7 +4,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created 2023-05-24 · Updated 2026-06-04</em></p>
+  <p><em>Created May 24, 2023 · Updated June 5, 2026</em></p>
 </div>
 
 <p align="center">
@@ -116,7 +116,7 @@ _Clients that are temporarily down for updates — their information and cheats 
 > [!IMPORTANT]
 > **Aeris is temporarily on hold.** The owner and maintainer is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 >
-> **`storage.kawata.pw` has been down since 2 - 06 - 2026.**
+> **`storage.kawata.pw` has been down since June 2, 2026.**
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
@@ -159,7 +159,7 @@ _Clients that are temporarily down for updates — their information and cheats 
 > [!IMPORTANT]
 > Maple is currently going through updates and is **unavailable to purchase or use** right now — it is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
 >
-> **Under development since 13 - 12 - 2024 following a source-code leak (per the official Discord announcement).**
+> **Under development since December 13, 2024 following a source-code leak (per the official Discord announcement).**
 
 > _Paid hack with no built-in limits, actively maintained._
 
@@ -401,7 +401,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's source of information.
+      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
     </td>
   </tr>
 </table>
