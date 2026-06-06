@@ -29,9 +29,9 @@
   <a href="https://atoka.pw/">
     <img src="public/osu!Atoka.png" alt="Atoka" width="180">
   </a>
-  <p><strong>The osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheat clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://atoka.pw/">atoka.pw</a>.</strong></p>
-  <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission.</p>
-  <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p>
+  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://atoka.pw/">atoka.pw</a>.</strong></p>
+  <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
+  <!-- <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p> -->
 </div>
 
 ## Contents
@@ -333,7 +333,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > The **Catch (CTB) auto-bot was removed** before release (miracle couldn't fix its memory leaks), so the Catch tab is wiped despite still appearing in the mode menu. Two builds appear in the screenshots. All details and images are developer-provided; paw!cheats was never publicly downloadable.
 
 <details>
-<summary><strong>UI screenshots of paw!Cheats</strong> (developer-provided, historic reference)</summary>
+<summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 paw!cheats UI screenshots"></summary>
 
 <br>
 
