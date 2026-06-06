@@ -323,7 +323,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-> _Short-lived, heavily-modified 2026 osu! client by miracle: a standalone, multi-mode cheat with humanized bots. Never publicly released but has pre-view images;_
+> _Short-lived, heavily-modified 2026 osu! client by miracle: a standalone, multi-mode cheat with humanized bots. Never publicly released but has pre-view images._
 
 - **Status:** Archived · Discontinued · Standalone · Free
 - **Lifespan:** April 15 to May 18, 2026 (~1 month, per the developer's edit timestamps)
