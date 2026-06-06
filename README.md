@@ -4,7 +4,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 5, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated June 6, 2026</em></p>
 </div>
 
 <p align="center">
@@ -12,21 +12,26 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-9-1f6feb?style=flat-square" alt="9 clients">
+  <img src="https://img.shields.io/badge/clients-11-1f6feb?style=flat-square" alt="11 clients">
   <img src="https://img.shields.io/badge/2_active-2ea44f?style=flat-square" alt="2 active">
   <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
-  <img src="https://img.shields.io/badge/5_archived-6e7681?style=flat-square" alt="5 archived">
+  <img src="https://img.shields.io/badge/7_archived-6e7681?style=flat-square" alt="7 archived">
 </p>
 
 > [!CAUTION]
-> Cheats are detectable on Bancho and most private servers. Accounts have been banned for using every client listed here. This directory is preserved for educational and archival purposes. Links to legacy clients are kept for historical reference, not endorsement. Use at your own risk.
+> Cheats are detectable on Bancho and most [private servers](https://hinamizawa.ai/osu/servers/). Accounts have been banned for using every client listed here. This directory is preserved for educational and archival purposes. Links to legacy clients are kept for historical reference, not endorsement. Use at your own risk.
 
 <div align="center">
   <a href="https://kawata.pw">
     <img src="public/kawata.png" alt="Kawata" width="180">
   </a>
-  <p><strong>The only osu! private server where these cheat clients are allowed is <a href="https://kawata.pw">kawata.pw</a>.</strong></p>
-  <p>Bancho and every other private server detect and ban these clients on score submission.</p>
+  &nbsp;&nbsp;
+  <a href="https://atoka.pw/">
+    <img src="public/osu!Atoka.png" alt="Atoka" width="180">
+  </a>
+  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://atoka.pw/">atoka.pw</a>.</strong></p>
+  <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
+  <!-- <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p> -->
 </div>
 
 ## Contents
@@ -43,6 +48,8 @@
   - [Skooter](#skooter)
   - [Ainu](#ainu)
   - [freedom](#freedom)
+  - [tuyosu](#tuyosu)
+  - [paw!cheats](#paw-cheats)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
 - [Feature comparison](#feature-comparison)
@@ -51,9 +58,11 @@
 - [Contributors](#contributors)
 
 <a name="active-clients"></a>
+
 ## <img src="https://img.shields.io/badge/🟢_ACTIVE_CLIENTS-2ea44f?style=for-the-badge" height="34" alt="Active Clients">
 
 <a name="arc"></a>
+
 ### Arc
 
 <div align="left">
@@ -68,7 +77,7 @@
 - **Maintainer:** [Aochi](https://github.com/7ez)
 - **Download:** [m1.aochi.uk/r/osu!.exe](https://m1.aochi.uk/r/osu!.exe)
 - **Cheats:**
-  - Maple Aim Assist (V1–V3)
+  - Maple Aim Assist (V1-V3)
   - Aim Correction
   - Relax Hack
   - Timewarp
@@ -78,6 +87,7 @@
 > Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 
 <a name="osu-rx"></a>
+
 ### osu!rx
 
 > _Relax and aim hack for the legacy osu! b20220424 build._
@@ -94,11 +104,13 @@
 > The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
 
 <a name="under-maintenance"></a>
+
 ## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
 
-_Clients that are temporarily down for updates — their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
+_Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
 
 <a name="kawata-aeris"></a>
+
 ### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
 
 <div align="left">
@@ -114,7 +126,7 @@ _Clients that are temporarily down for updates — their information and cheats 
 </p>
 
 > [!IMPORTANT]
-> **Aeris is temporarily on hold.** The owner and maintainer is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
+> **Aeris is temporarily on hold.** The owner and maintainer, TheFantasticLoki, is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 >
 > **`storage.kawata.pw` has been down since June 2, 2026.**
 
@@ -122,7 +134,7 @@ _Clients that are temporarily down for updates — their information and cheats 
 
 - **Status:** Under maintenance · Download offline (maintainer relocating) · Public beta · Free
 - **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and [Chewy/Pythr](https://github.com/Pytxhr))
-- **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline — maintainer relocating)*
+- **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
   - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
@@ -143,6 +155,7 @@ _Clients that are temporarily down for updates — their information and cheats 
 
 <a name="maple"></a>
 <a name="maple-client"></a>
+
 ### Maple
 
 <div align="left">
@@ -157,7 +170,7 @@ _Clients that are temporarily down for updates — their information and cheats 
 </p>
 
 > [!IMPORTANT]
-> Maple is currently going through updates and is **unavailable to purchase or use** right now — it is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
+> Maple is currently going through updates and is **unavailable to purchase or use** right now. It is only handed out to a selected few within their circle. The details below are preserved for reference and will apply again once the next build is officially released.
 >
 > **Under development since December 13, 2024 following a source-code leak (per the official Discord announcement).**
 
@@ -174,6 +187,7 @@ _Clients that are temporarily down for updates — their information and cheats 
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 <a name="legacy-archive"></a>
+
 ## <img src="https://img.shields.io/badge/⚪_LEGACY_·_ARCHIVE-6e7681?style=for-the-badge" height="34" alt="Legacy / Archive">
 
 _Discontinued or no-longer-maintained clients, kept here for historical reference. Most downloads will be broken or unsafe by now._
@@ -182,6 +196,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
 
 <a name="aqn"></a>
+
 ### AQN
 
 <div align="left">
@@ -199,6 +214,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
 
 <a name="abypass"></a>
+
 ### Abypass
 
 > _Successor to Skoot.er, mostly discontinued. Downloads have been lost._
@@ -218,6 +234,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Other features:** In-game PP counter · Built-in updater · Server switcher
 
 <a name="skooter"></a>
+
 ### Skooter
 
 > _Predecessor to Abypass. No longer maintained._
@@ -230,6 +247,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - [skooter_new](https://cdn.discordapp.com/attachments/883824772021108736/1083581690284359841/skooternew.zip) *(Discord CDN, if Skooter won't open)*
 
 <a name="ainu"></a>
+
 ### Ainu
 
 > _Predecessor to Skooter and Abypass. No longer maintained._
@@ -244,6 +262,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > Only download from trusted sources (MPGH, the Skoot.er Discord, or the Ainu Cheaters Discord). Copies from elsewhere are known to contain unsafe modifications.
 
 <a name="freedom"></a>
+
 ### freedom
 
 <div align="left">
@@ -257,8 +276,8 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Download:**
   - [UnKnoWnCheaTs attachment](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) *(forum mirror)*
   - [github.com/Ciremun/freedom](https://github.com/Ciremun/freedom) *(repo offline)*
-- **Source thread:** [UnKnoWnCheaTs — osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
-- **Format:** DLL — inject with any injector (Extreme Injector recommended)
+- **Source thread:** [UnKnoWnCheaTs: osu! hack](https://www.unknowncheats.me/forum/other-games/588133-osu-hack.html)
+- **Format:** DLL. Inject with any injector (Extreme Injector recommended)
 - **Cheats:**
   - Aimbot
   - Relax Hack
@@ -268,12 +287,90 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - Misc
 
 > [!WARNING]
-> The GitHub repo is offline. Only the UnKnoWnCheaTs attachment remains, and DLLs posted on cheat forums frequently carry tampered builds — scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+> The GitHub repo is offline. Only the UnKnoWnCheaTs attachment remains, and DLLs posted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
+
+<a name="tuyosu"></a>
+
+### tuyosu
+
+<div align="left">
+  <img src="public/tuyosu-cheat.webp" alt="tuyosu cheat logo" width="140">
+</div>
+
+> _Short-lived standalone osu! cheat by noemi; never affiliated with Kawata. Released July 26, 2025, shut down June 5, 2026._
+
+- **Status:** Archived · Discontinued (shut down June 5, 2026) · Free
+- **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
+- **Maintainer:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> (unmaintained)
+- **Download:** Unavailable, no public mirror; the project shut down.
+- **Cheats:**
+  - Aim Correction
+  - Timewarp
+  - CS Changer
+  - AR Changer
+  - FL Remover
+
+> [!NOTE]
+> Listed for archival completeness. The logo above was contributed by tuyosu's developer; no download was ever mirrored here.
+
+<a name="paw-cheats"></a>
+
+### paw!cheats
+
+<div align="left">
+  <a href="https://github.com/SimplyAe">
+    <img src="https://avatars.githubusercontent.com/u/189980087?v=4" alt="paw!cheats logo (miracle)" width="140">
+  </a>
+</div>
+
+> _Short-lived, heavily-modified 2026 osu! client by miracle: a standalone, multi-mode cheat with humanized bots. Never publicly released but has pre-view images._
+
+- **Status:** Archived · Discontinued · Standalone · Free
+- **Lifespan:** April 15 to May 18, 2026 (~1 month, per the developer's edit timestamps)
+- **Maintainer:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a> (unmaintained)
+- **Base:** A 2026 osu! client, heavily modified, with per-mode menus for osu! / Taiko / Catch / Mania.
+- **Download:** Unavailable, never publicly released.
+- **Cheats:**
+  - Aim Assist V5: magnetic cursor pull (Strength, Base FOV, Humanization, Flow)
+  - Aim Correction: tunable; works alongside Aim Assist
+  - Human Autobot (osu!): humanized cursor movement (Aim Spread, Curve Strength); cursor-only, pair with Relax for clicks
+  - Humanized auto-bots for Taiko & Mania: jack detection, fatigue, chord correlation, phantom releases, timing jitter
+  - Click Assist / Relax: auto-clicks every object on time (score unranked); adjustable offset
+  - Timewarp (with AR compensation) · AR Changer · CS Changer · HD Remover · FL Remover
+  - Server switcher · hardware identity (HWID) profiles
+- **Misc / visuals:**
+  - Lazer notelock logic · insta-fade (keeps skin colors)
+  - Long / tube trail (Danser-style rainbow trail; WIP, could crash) + trail length
+  - Circle fade-out timing · DT/NC playback on a selected song
+
+> [!NOTE]
+> The **Catch (CTB) auto-bot was removed** before release (miracle couldn't fix its memory leaks), so the Catch tab is wiped despite still appearing in the mode menu. Two builds appear in the screenshots. All details and images are developer-provided; paw!cheats was never publicly downloadable.
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_5_UI_Screenshots-8957e5?style=for-the-badge" alt="View 5 paw!cheats UI screenshots"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/pawCheatUI/aimAssist.png" alt="paw!cheats: Aim Assist V5 menu (Strength, Base FOV, Humanization, Flow)" width="480">
+  <p><em>Aim Assist V5: magnetic cursor pull, with Strength, Base FOV, Humanization and Flow.</em></p>
+  <img src="public/pawCheatUI/enlighten.png" alt="paw!cheats: Cheats menu showing Timewarp, HD Remover and the Human Autobot" width="480">
+  <p><em>Cheats menu: Timewarp, HD Remover, and the Human Autobot.</em></p>
+  <img src="public/pawCheatUI/misc.png" alt="paw!cheats: full Cheats menu with Identity profile, Click Assist, AR Changer and Miscellaneous" width="480">
+  <p><em>Identity (HWID) profiles, Click Assist / Relax, AR Changer, and Miscellaneous (lazer notelock, insta-fade, tube trail).</em></p>
+  <img src="public/pawCheatUI/maniaAuto.png" alt="paw!cheats: Mania auto-bot menu" width="480">
+  <p><em>Mania bot: jack detection, fatigue, chord correlation and phantom releases.</em></p>
+  <img src="public/pawCheatUI/taikoBotAuto.png" alt="paw!cheats: Taiko auto-bot menu" width="480">
+  <p><em>Taiko bot: don/kat, drum rolls and spinners, with humanized timing.</em></p>
+</div>
+
+</details>
 
 ## Resources
 
 <a name="patched-osu"></a>
 <a name="patched-osu-20220424"></a>
+
 ### Patched osu! b20220424
 
 > _Base client required by osu!rx and other legacy hacks._
@@ -308,12 +405,15 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Project site](https://skooter.shibe.lol/) |
 | [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Discord CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
 | [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
+| [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
+| [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
 
 <!-- 
 <sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance &nbsp;·&nbsp; ⚪ Legacy / archived</sub> -->
 <hr>
 
 <a name="play-legit"></a>
+
 ## Play legit?
 
 <div align="center">
@@ -322,12 +422,12 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai — strictly non-cheating utilities for legit play and exploration:
+The maintainer of this archive also runs a few free osu! tools on hinamizawa.ai, strictly non-cheating utilities for legit play and exploration:
 
-- [**Beatmap Mirror**](https://hinamizawa.ai/osu/beatmaps/) — Search and download. PP on every card across 14 mod combos. Leaderboards, fail graphs, background downloads. 10 cascading mirror sources, all 4 game modes.
-- [**PP Farm Maps**](https://hinamizawa.ai/osu/pp-maps/) — 144,000+ ranked beatmaps with pre-calculated PP for 14 mod combinations. Filter by PP range, star rating, BPM, mode.
-- [**Beatmap Packs**](https://hinamizawa.ai/osu/map-packs/) — 3,750+ curated packs across 7 categories (Standard, Featured Artist, Tournament, Loved, Spotlights, Theme, Artist), 263,000+ difficulties with PP per difficulty.
-- [**Private Server List**](https://hinamizawa.ai/osu/servers/) — A directory of every osu! private server found online, with live stats. All are strictly non-cheating servers and will ban on sight if you cheat on score submission.
+- [**Beatmap Mirror**](https://hinamizawa.ai/osu/beatmaps/): Search and download. PP on every card across 14 mod combos. Leaderboards, fail graphs, background downloads. 10 cascading mirror sources, all 4 game modes.
+- [**PP Farm Maps**](https://hinamizawa.ai/osu/pp-maps/): 144,000+ ranked beatmaps with pre-calculated PP for 14 mod combinations. Filter by PP range, star rating, BPM, mode.
+- [**Beatmap Packs**](https://hinamizawa.ai/osu/map-packs/): 3,750+ curated packs across 7 categories (Standard, Featured Artist, Tournament, Loved, Spotlights, Theme, Artist), 263,000+ difficulties with PP per difficulty.
+- [**Private Server List**](https://hinamizawa.ai/osu/servers/): A directory of every osu! private server found online, with live stats. All are strictly non-cheating servers and will ban on sight if you cheat on score submission.
 
 No login required.
 
@@ -346,6 +446,7 @@ This is a curated archive. PRs welcome for:
 PRs adding **new actively-developed cheat clients** are reviewed case-by-case, so please open an issue first. Every download link must be paired with a virus-scan link.
 
 <a name="contributors"></a>
+
 ## Contributors
 
 <table>
@@ -401,7 +502,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor — the upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
+      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
     </td>
   </tr>
 </table>
