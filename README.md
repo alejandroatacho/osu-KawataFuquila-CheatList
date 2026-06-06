@@ -58,9 +58,11 @@
 - [Contributors](#contributors)
 
 <a name="active-clients"></a>
+
 ## <img src="https://img.shields.io/badge/🟢_ACTIVE_CLIENTS-2ea44f?style=for-the-badge" height="34" alt="Active Clients">
 
 <a name="arc"></a>
+
 ### Arc
 
 <div align="left">
@@ -85,6 +87,7 @@
 > Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 
 <a name="osu-rx"></a>
+
 ### osu!rx
 
 > _Relax and aim hack for the legacy osu! b20220424 build._
@@ -101,11 +104,13 @@
 > The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
 
 <a name="under-maintenance"></a>
+
 ## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
 
 _Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
 
 <a name="kawata-aeris"></a>
+
 ### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
 
 <div align="left">
@@ -121,7 +126,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 </p>
 
 > [!IMPORTANT]
-> **Aeris is temporarily on hold.** The owner and maintainer is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
+> **Aeris is temporarily on hold.** The owner and maintainer, TheFantasticLoki, is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 >
 > **`storage.kawata.pw` has been down since June 2, 2026.**
 
@@ -150,6 +155,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 <a name="maple"></a>
 <a name="maple-client"></a>
+
 ### Maple
 
 <div align="left">
@@ -181,6 +187,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
   - AR Changer · CS Changer · HD Remover · FL Remover
 
 <a name="legacy-archive"></a>
+
 ## <img src="https://img.shields.io/badge/⚪_LEGACY_·_ARCHIVE-6e7681?style=for-the-badge" height="34" alt="Legacy / Archive">
 
 _Discontinued or no-longer-maintained clients, kept here for historical reference. Most downloads will be broken or unsafe by now._
@@ -189,6 +196,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > Discord CDN links rot without notice. Verify the file hash or get a fresh copy from MPGH or the relevant Discord before running anything. Scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before execution.
 
 <a name="aqn"></a>
+
 ### AQN
 
 <div align="left">
@@ -206,6 +214,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
 
 <a name="abypass"></a>
+
 ### Abypass
 
 > _Successor to Skoot.er, mostly discontinued. Downloads have been lost._
@@ -225,6 +234,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Other features:** In-game PP counter · Built-in updater · Server switcher
 
 <a name="skooter"></a>
+
 ### Skooter
 
 > _Predecessor to Abypass. No longer maintained._
@@ -237,6 +247,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - [skooter_new](https://cdn.discordapp.com/attachments/883824772021108736/1083581690284359841/skooternew.zip) *(Discord CDN, if Skooter won't open)*
 
 <a name="ainu"></a>
+
 ### Ainu
 
 > _Predecessor to Skooter and Abypass. No longer maintained._
@@ -251,6 +262,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > Only download from trusted sources (MPGH, the Skoot.er Discord, or the Ainu Cheaters Discord). Copies from elsewhere are known to contain unsafe modifications.
 
 <a name="freedom"></a>
+
 ### freedom
 
 <div align="left">
@@ -278,6 +290,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > The GitHub repo is offline. Only the UnKnoWnCheaTs attachment remains, and DLLs posted on cheat forums frequently carry tampered builds, so scan every binary yourself ([VirusTotal](https://www.virustotal.com/), [Hybrid Analysis](https://www.hybrid-analysis.com/)) before injecting.
 
 <a name="tuyosu"></a>
+
 ### tuyosu
 
 <div align="left">
@@ -301,6 +314,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > Listed for archival completeness. The logo above was contributed by tuyosu's developer; no download was ever mirrored here.
 
 <a name="paw-cheats"></a>
+
 ### paw!cheats
 
 <div align="left">
@@ -356,6 +370,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <a name="patched-osu"></a>
 <a name="patched-osu-20220424"></a>
+
 ### Patched osu! b20220424
 
 > _Base client required by osu!rx and other legacy hacks._
@@ -398,6 +413,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <hr>
 
 <a name="play-legit"></a>
+
 ## Play legit?
 
 <div align="center">
@@ -430,6 +446,7 @@ This is a curated archive. PRs welcome for:
 PRs adding **new actively-developed cheat clients** are reviewed case-by-case, so please open an issue first. Every download link must be paired with a virus-scan link.
 
 <a name="contributors"></a>
+
 ## Contributors
 
 <table>
