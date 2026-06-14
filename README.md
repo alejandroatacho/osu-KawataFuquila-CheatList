@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
+  <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
+  <div align="center">
+  <a href="https://fishy.moe/client-cheating-archive">
+    <!-- <img src="public/fishy.png" alt="fishy.moe osu! cheat client archive" width="180"> -->
+  </a>
+  <p><strong>Prefer an online interactive version of this archive? Browse the osu! private servers Cheat List at <a href="https://fishy.moe/client-cheating-archive">fishy.moe/client-cheating-archive</a>.</strong>
+  </div>
   <h1>
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
-  <p><em>A directory of osu! cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 6, 2026</em></p>
+  <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
+  <p><em>Created May 24, 2023 · Updated June 14, 2026</em></p>
 </div>
 
 <p align="center">
@@ -26,10 +32,14 @@
     <img src="public/kawata.png" alt="Kawata" width="180">
   </a>
   &nbsp;&nbsp;
+  <a href="https://fishy.moe">
+    <img src="public/fishy.png" alt="fishy.moe" width="180">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://atoka.pw/">
     <img src="public/osu!Atoka.png" alt="Atoka" width="180">
   </a>
-  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://atoka.pw/">atoka.pw</a>.</strong></p>
+  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a>, <a href="https://fishy.moe">fishy.moe</a> and <a href="https://atoka.pw/">atoka.pw</a>.</strong></p>
   <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
   <!-- <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p> -->
 </div>
@@ -198,7 +208,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <a name="aqn"></a>
 
 ### AQN
-
+<img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
 <div align="left">
   <a href="https://github.com/rumoi/AQN_nologin">
     <img src="public/aqn.png" alt="AQN" width="140">
@@ -458,7 +468,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
     </td>
   </tr>
   <tr>
@@ -509,4 +519,4 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 
 ---
 
-<p align="center"><sub>Information mirrored from <a href="https://kawata.pw">Kawata</a>'s in-game cheat docs · Legacy entries preserved from the 2023 archive.</sub></p>
+<p align="center"><sub>Information data found via ban appeals on private servers & self research/communication with the underground community · some information mirrored from <a href="https://kawata.pw">Kawata</a>'s in-game cheat docs · Old Legacy entries preserved from the 2023 archive original research team.</sub></p>
