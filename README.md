@@ -4,7 +4,7 @@
   <a href="https://fishy.moe/client-cheating-archive">
     <!-- <img src="public/fishy.png" alt="fishy.moe osu! cheat client archive" width="180"> -->
   </a>
-  <p><strong>Prefer an online interactive version of this archive? Browse the osu! private servers Cheat List at <a href="https://fishy.moe/client-cheating-archive">fishy.moe/client-cheating-archive</a>.</strong>
+  <p><strong>Prefer an online interactive version of this archive? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
   </div>
   <h1>
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
