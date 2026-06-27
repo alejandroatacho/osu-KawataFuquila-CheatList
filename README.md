@@ -35,11 +35,7 @@
   <a href="https://fishy.moe">
     <img src="public/fishy.png" alt="fishy.moe" width="180">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://atoka.pw/">
-    <img src="public/osu!Atoka.png" alt="Atoka" width="180">
-  </a>
-  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a>, <a href="https://fishy.moe">fishy.moe</a> and <a href="https://atoka.pw/">atoka.pw</a>.</strong></p>
+  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://fishy.moe">fishy.moe</a>.</strong></p>
   <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
   <!-- <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p> -->
 </div>
@@ -63,6 +59,7 @@
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
 - [Feature comparison](#feature-comparison)
+- [Want to test your own cheat?](#test-your-cheat)
 - [Play legit?](#play-legit)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -312,7 +309,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Discontinued (shut down June 5, 2026) · Free
 - **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
 - **Maintainer:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> (unmaintained)
-- **Download:** [MediaFire](https://www.mediafire.com/file/0t8mx7plt3fpbqa/BLATANT.rar/file) ; no online connection
+- **Download:** [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu)
 - **Cheats:**
   - Aim Correction
   - Timewarp
@@ -321,7 +318,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   - FL Remover
 
 > [!NOTE]
-> Listed for archival completeness. The logo above was contributed by tuyosu's developer; no download was ever mirrored here.
+> Listed for archival completeness. The logo above was contributed by tuyosu's developer, noemi, who reached out and gave permission to mirror the last worked-on version on fishy.moe, free to download and give away.
 
 <a name="paw-cheats"></a>
 
@@ -422,6 +419,22 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance &nbsp;·&nbsp; ⚪ Legacy / archived</sub> -->
 <hr>
 
+<a name="test-your-cheat"></a>
+
+## Want to test your own cheat?
+
+<div align="center">
+  <a href="https://dev.fishy.moe">
+    <img src="public/fishy-og.jpg" alt="dev.fishy.moe cheat testing playground" width="480">
+  </a>
+</div>
+
+<a href="https://dev.fishy.moe">dev.fishy.moe</a> is a special playground for testing unreleased cheats. It runs a <a href="https://github.com/kawatapw/kawata.py">kawata backend</a> with customizations from <a href="https://github.com/osu-NoLimits/bancho.py-ex">bancho.py-ex</a>. The backend is fully reworked and rewritten for this purpose, so it stands as a "sister" build of kawata dedicated to testing.
+
+To connect a cheat or osu! client for testing, launch osu! with the `-devserver fishy.moe` switch, then log in with your <a href="https://fishy.moe">fishy.moe</a> account. The server runs fully over HTTPS, so the client reaches it on the standard bancho subdomains without extra setup. Full steps are on the <a href="https://fishy.moe/rules">fishy.moe rules and connection guide</a>.
+
+<hr>
+
 <a name="play-legit"></a>
 
 ## Play legit?
@@ -473,6 +486,28 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   </tr>
   <tr>
     <td align="center" width="140">
+      <a href="https://github.com/TheFantasticLoki">
+        <img src="https://github.com/TheFantasticLoki.png" width="80" alt="TheFantasticLoki"><br>
+        <sub><b>TheFantasticLoki</b></sub>
+      </a>
+    </td>
+    <td>
+      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/nyoemii">
+        <img src="https://github.com/nyoemii.png" width="80" alt="noemi (nyoemii)"><br>
+        <sub><b>noemi (nyoemii)</b></sub>
+      </a>
+    </td>
+    <td>
+      Developer of <a href="#tuyosu">tuyosu</a>. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download and give away, so it stays available even if the original MediaFire link expires.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
       <a href="https://github.com/7ez">
         <img src="https://github.com/7ez.png" width="80" alt="Aochi"><br>
         <sub><b>Aochi</b></sub>
@@ -502,17 +537,6 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
     </td>
     <td>
       Original Cheat hunter and Researcher; <a href="https://kawata.pw">Kawata</a> Staff alumni.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://github.com/TheFantasticLoki">
-        <img src="https://github.com/TheFantasticLoki.png" width="80" alt="TheFantasticLoki"><br>
-        <sub><b>TheFantasticLoki</b></sub>
-      </a>
-    </td>
-    <td>
-      Owner and Lead Developer of <a href="https://kawata.pw/u/1488">Kawata</a> and the Aeris client. Indirect contributor. The upstream <a href="https://kawata.pw/u/1488">Kawata</a> docs are also one of this archive's sources of information.
     </td>
   </tr>
 </table>
