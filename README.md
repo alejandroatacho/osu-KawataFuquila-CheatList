@@ -1,9 +1,6 @@
 <div align="center">
   <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
-  <a href="https://fishy.moe/client-cheating-archive">
-    <!-- <img src="public/fishy.png" alt="fishy.moe osu! cheat client archive" width="180"> -->
-  </a>
   <p><strong>Prefer an online interactive version of this archive? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
   </div>
   <h1>
@@ -432,6 +429,10 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 <a href="https://dev.fishy.moe">dev.fishy.moe</a> is a special playground for testing unreleased cheats. It runs a <a href="https://github.com/kawatapw/kawata.py">kawata backend</a> with customizations from <a href="https://github.com/osu-NoLimits/bancho.py-ex">bancho.py-ex</a>. The backend is fully reworked and rewritten for this purpose, so it stands as a "sister" build of kawata dedicated to testing.
 
 To connect a cheat or osu! client for testing, launch osu! with the `-devserver fishy.moe` switch, then log in with your <a href="https://fishy.moe">fishy.moe</a> account. The server runs fully over HTTPS, so the client reaches it on the standard bancho subdomains without extra setup. Full steps are on the <a href="https://fishy.moe/rules">fishy.moe rules and connection guide</a>.
+
+### Need to host or back up your cheat?
+
+Beyond testing, we can also host a download URL for your cheat on fishy.moe. If your own mirror link breaks or you do not run a server, we can store a backup so others can still use your work. Everything we host lives under <a href="https://fishy.moe/download">fishy.moe/download</a>, where each cheat gets its own stable link. The <a href="#tuyosu">tuyosu</a> entry above is one example: with the developer's permission it now ships from a stable <a href="https://fishy.moe/download/tuyosu">fishy.moe/download/tuyosu</a> link that will not expire. Get in touch if you want the same for your client.
 
 <hr>
 
