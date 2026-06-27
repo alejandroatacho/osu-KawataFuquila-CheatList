@@ -302,7 +302,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Discontinued (shut down June 5, 2026) · Free
 - **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
 - **Maintainer:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> (unmaintained)
-- **Download:** Unavailable, no public mirror; the project shut down.
+- **Download:** [MediaFire](https://www.mediafire.com/file/0t8mx7plt3fpbqa/BLATANT.rar/file) ; no online connection
 - **Cheats:**
   - Aim Correction
   - Timewarp
