@@ -10,7 +10,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 14, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated June 27, 2026</em></p>
 </div>
 
 <p align="center">
@@ -312,7 +312,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 - **Status:** Archived · Discontinued (shut down June 5, 2026) · Free
 - **Lifespan:** July 26, 2025 to June 5, 2026 (~10 months)
 - **Maintainer:** <a href="https://github.com/nyoemii"><img src="https://avatars.githubusercontent.com/u/69471841?v=4" width="28" align="middle" alt="noemi avatar"> noemi</a> (unmaintained)
-- **Download:** Unavailable, no public mirror; the project shut down.
+- **Download:** [MediaFire](https://www.mediafire.com/file/0t8mx7plt3fpbqa/BLATANT.rar/file) ; no online connection
 - **Cheats:**
   - Aim Correction
   - Timewarp
