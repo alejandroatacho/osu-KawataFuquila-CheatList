@@ -15,9 +15,10 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/commits"><img src="https://img.shields.io/github/last-commit/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Last commit"></a>
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/clients-11-1f6feb?style=flat-square" alt="11 clients">
+  <img src="https://img.shields.io/badge/clients-13-1f6feb?style=flat-square" alt="13 clients">
   <img src="https://img.shields.io/badge/2_active-2ea44f?style=flat-square" alt="2 active">
   <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
+  <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
   <img src="https://img.shields.io/badge/7_archived-6e7681?style=flat-square" alt="7 archived">
 </p>
 
@@ -45,8 +46,11 @@
 - [Under Maintenance](#under-maintenance)
   - [Aeris - Kawata](#kawata-aeris)
   - [Maple](#maple)
+- [Under Development](#under-development)
+  - [AQN Revived V3](#aqn-revived-v3)
+  - [??????](#mystery-client)
 - [Legacy / Archive](#legacy-archive)
-  - [AQN](#aqn)
+  - [AQN V1 + V2](#aqn)
   - [Abypass](#abypass)
   - [Skooter](#skooter)
   - [Ainu](#ainu)
@@ -190,6 +194,67 @@ _Clients that are temporarily down for updates. Their information and cheats are
   - Timewarp
   - AR Changer · CS Changer · HD Remover · FL Remover
 
+<a name="under-development"></a>
+
+## <img src="https://img.shields.io/badge/🟣_UNDER_DEVELOPMENT-8957e5?style=for-the-badge" height="34" alt="Under Development">
+
+_Upcoming clients that have been announced or previewed but are not released yet. Details and release dates can change._
+
+> [!WARNING]
+> Release dates are unknown and nothing is confirmed. Please do not bother or stress the developers about it.
+
+<a name="aqn-revived-v3"></a>
+
+### AQN Revived V3
+
+<div align="left">
+  <a href="https://theaquila.network">
+    <img src="public/aqn.png" alt="AQN Revived V3 logo" width="140">
+  </a>
+</div>
+
+> _A revival of AQN, in active development. Release date unknown._
+
+- **Status:** Under development · Release date unknown
+- **Developer:** <a href="https://github.com/ptrchain"><img src="https://avatars.githubusercontent.com/u/290498914?v=4" width="28" align="middle" alt="ptrchain avatar"> ptrchain</a>
+- **Website:** [theaquila.network](https://theaquila.network)
+- **Discord:** [discord.gg/jkYzjHyqMg](https://discord.gg/jkYzjHyqMg)
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_2_Preview_Images-8957e5?style=for-the-badge" alt="View 2 AQN Revived V3 preview images"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/AQN-Revive-v3/5smtm61.webp" alt="AQN Revived V3 preview screenshot 1" width="480">
+  <img src="public/AQN-Revive-v3/rv804m3.webp" alt="AQN Revived V3 preview screenshot 2" width="480">
+</div>
+
+</details>
+
+<a name="mystery-client"></a>
+
+### ??????
+
+> _An unannounced osu! client in early development. Name, feature set, and release date are all unknown._
+
+- **Status:** Under development · Name and release date unknown
+- **Lead Developer/Owner:** <a href="https://github.com/SimplyAe"><img src="https://github.com/SimplyAe.png" width="28" align="middle" alt="miracle (SimplyAe) avatar"> miracle</a> (of <a href="#paw-cheats">paw!cheats</a>)
+- **Assistant:** <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a> (of <a href="#tuyosu">tuyosu</a>)
+
+<details>
+<summary><img src="https://img.shields.io/badge/View_3_Preview_Images-8957e5?style=for-the-badge" alt="View 3 preview images of the unannounced client"></summary>
+
+<br>
+
+<div align="left">
+  <img src="public/Rumors/rumors-1.png" alt="Unannounced client preview screenshot 1" width="480">
+  <img src="public/Rumors/rumors-2.png" alt="Unannounced client preview screenshot 2" width="480">
+  <img src="public/Rumors/rumors-3.png" alt="Unannounced client preview screenshot 3" width="480">
+</div>
+
+</details>
+
 <a name="legacy-archive"></a>
 
 ## <img src="https://img.shields.io/badge/⚪_LEGACY_·_ARCHIVE-6e7681?style=for-the-badge" height="34" alt="Legacy / Archive">
@@ -201,7 +266,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 <a name="aqn"></a>
 
-### AQN
+### AQN V1 + V2
 <img src="public/hero-banner.png" alt="osu! Cheat List" width="700">
 <div align="left">
   <a href="https://github.com/rumoi/AQN_nologin">
@@ -209,10 +274,10 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-> _Now free; crashes on the current osu! version._
+> _AQN V1 was the original AQN by Kevin, later continued as V2 by Rumoi. Now free; crashes on the current osu! version._
 
 - **Status:** Archived · Broken on current osu!
-- **Maintainer:** <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (unmaintained)
+- **Maintainer:** <img src="public/aqn.png" width="28" align="middle" alt="AQN (Kevin) icon"> Kevin (original developer, V1) and <a href="https://github.com/rumoi"><img src="https://github.com/rumoi.png" width="28" align="middle" alt="Rumoi avatar"> Rumoi</a> (V2). Both unmaintained.
 - **Download:**
   - [theaquila.net](https://theaquila.net/) *(legacy site)*
   - [github.com/rumoi/AQN_nologin](https://github.com/rumoi/AQN_nologin) *(no-login / free version)*
@@ -404,12 +469,14 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**osu!rx**](#osu-rx) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | b20220424 | ❌ | [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) |
 | [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | _offline_ |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
-| [**AQN**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [GitHub repo](https://github.com/rumoi/AQN_nologin) |
+| [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
+| [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
+| [**AQN V1 + V2**](#aqn) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [GitHub repo](https://github.com/rumoi/AQN_nologin) |
 | [**Abypass**](#abypass) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Updater mirror](https://abypass.fumo.lol/updater) |
 | [**Skooter**](#skooter) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Project site](https://skooter.shibe.lol/) |
 | [**Ainu**](#ainu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [Discord CDN](https://cdn.discordapp.com/attachments/827128975897657344/889117178744434738/ainu-cheat.exe) |
 | [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
-| [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
+| [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu) |
 | [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
 
 <!-- 
@@ -482,7 +549,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
     </td>
   </tr>
   <tr>
