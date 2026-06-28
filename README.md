@@ -33,7 +33,7 @@
   <a href="https://fishy.moe">
     <img src="public/fishy.png" alt="fishy.moe" width="180">
   </a>
-  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://dev.fishy.moe">dev.fishy.moe</a>.</strong></p>
+  <p><strong>The ONLY osu! <a href="https://hinamizawa.ai/osu/servers/">private servers</a> where these cheating clients are allowed are <a href="https://kawata.pw">kawata.pw</a> and <a href="https://fishy.moe">fishy.moe</a> (client test only).</strong></p>
   <p>Bancho and every other <a href="https://hinamizawa.ai/osu/servers/">private server</a> detect and ban these clients on score submission!</p>
   <!-- <p align="center"><sub>Any other cheating <a href="https://hinamizawa.ai/osu/servers/">private server</a> that is known also work, if the following is aloud in their rules/doc</sub></p> -->
 </div>
@@ -497,7 +497,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
   </a>
 </div>
 
-<a href="https://dev.fishy.moe">dev.fishy.moe</a> is a special playground for testing unreleased cheats. It runs a <a href="https://github.com/kawatapw/kawata.py">kawata backend</a> with customizations from <a href="https://github.com/osu-NoLimits/bancho.py-ex">bancho.py-ex</a>. The backend is fully reworked and rewritten for this purpose, so it stands as a "sister" build of kawata dedicated to testing.
+<a href="https://dev.fishy.moe">dev.fishy.moe</a> is a special playground for testing & developing unreleased cheats to apply in future for kawata.pw. It runs a <a href="https://github.com/kawatapw/kawata.py">kawata backend</a> with customizations from <a href="https://github.com/osu-NoLimits/bancho.py-ex">bancho.py-ex</a>. The backend is fully reworked and rewritten for this purpose, so it stands as a "sister" build of kawata dedicated to testing.
 
 To connect a cheat or osu! client for testing, launch osu! with the `-devserver fishy.moe` switch, then log in with your <a href="https://dev.fishy.moe">fishy.moe</a> account. The server runs fully over HTTPS, so the client reaches it on the standard bancho subdomains without extra setup. Full steps are on the <a href="https://dev.fishy.moe/rules">fishy.moe rules and connection guide</a>.
 
