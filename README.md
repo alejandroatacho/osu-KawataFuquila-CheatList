@@ -200,6 +200,9 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 _Upcoming clients that have been announced or previewed but are not released yet. Details and release dates can change._
 
+> [!WARNING]
+> Release dates are unknown and nothing is confirmed. Please do not bother or stress the developers about it.
+
 <a name="aqn-revived-v3"></a>
 
 ### AQN Revived V3
@@ -251,9 +254,6 @@ _Upcoming clients that have been announced or previewed but are not released yet
 </div>
 
 </details>
-
-> [!WARNING]
-> Release dates are unknown and nothing is confirmed. Please do not bother or stress the developers about it.
 
 <a name="legacy-archive"></a>
 
@@ -549,7 +549,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
     </td>
   </tr>
   <tr>
