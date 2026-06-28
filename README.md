@@ -7,7 +7,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 27, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated June 28, 2026</em></p>
 </div>
 
 <p align="center">
