@@ -7,7 +7,7 @@
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 27, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated June 28, 2026</em></p>
 </div>
 
 <p align="center">
@@ -137,12 +137,16 @@ _Clients that are temporarily down for updates. Their information and cheats are
 > **Aeris is temporarily on hold.** The owner and maintainer, TheFantasticLoki, is in the middle of relocating to another area ✈️ , so the download URL (`storage.kawata.pw`) is currently **offline**. Everything below is preserved and will be back as soon as the move is done and the download is restored.
 >
 > **`storage.kawata.pw` has been down since June 2, 2026.**
+>
+> **Fallback mirror added June 27, 2026:** while the official download is offline, Aeris is now mirrored at [fishy.moe/download/aeris](https://fishy.moe/download/aeris).
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
 - **Status:** Under maintenance · Download offline (maintainer relocating) · Public beta · Free
-- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a> and [Chewy/Pythr](https://github.com/Pytxhr))
-- **Download:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
+- **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
+- **Download:**
+  - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
+  - **Fallback:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris)
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
   - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
@@ -467,7 +471,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
 | [**osu!rx**](#osu-rx) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | b20220424 | ❌ | [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) |
-| [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | _offline_ |
+| [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
@@ -571,8 +575,8 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Developer of <a href="#tuyosu">tuyosu</a>. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download and give away, so it stays available even if the original MediaFire link expires.
-    </td>
+      Developer of <a href="#tuyosu">tuyosu</a>, Alumni of <a href="https://kawata.pw">Kawata</a> - Aeris Client. Contributed to this archive and gave permission to host the last worked-on version of tuyosu on <a href="https://fishy.moe">fishy.moe</a>, free to download so it stays available online.
+    </td
   </tr>
   <tr>
     <td align="center" width="140">
@@ -612,3 +616,10 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
 ---
 
 <p align="center"><sub>Information data found via ban appeals on private servers & self research/communication with the underground community · some information mirrored from <a href="https://kawata.pw">Kawata</a>'s in-game cheat docs · Old Legacy entries preserved from the 2023 archive original research team.</sub></p>
+
+
+---
+
+<p align="center">
+  <img src="https://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" alt="Visitor Counter" />
+</p>
