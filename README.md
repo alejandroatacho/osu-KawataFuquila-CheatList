@@ -130,7 +130,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 - **Download:**
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
   - **Fallback:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris)
-  - **Fallback Lite Build** [fish.moe/download/aeris-lite](https://fishy.moe/download/aeris-lite)
+  - **Fallback Lite Build:** [fishy.moe/download/aeris-lite](https://fishy.moe/download/aeris-lite)
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
   - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
