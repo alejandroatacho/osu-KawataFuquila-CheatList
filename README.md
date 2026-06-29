@@ -2,7 +2,7 @@
   <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
   <p><strong>Prefer an online interactive version of this archive? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
-  <p><bold>Redownload Aeris from fishy.moe for the updater version:June-29th-2026 3:00PM reuploaded currently being verified/tested to work on more then 2 device.</bold></p>
+  <p><bold>Redownload Aeris from fishy.moe for the updater version:June-29th-2026 3:00PM (gmt -4) reuploaded currently being verified/tested to work on more then 2 device.</bold></p>
   </div>
   <h1>
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
