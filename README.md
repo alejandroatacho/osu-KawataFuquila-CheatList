@@ -16,10 +16,10 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/clients-13-1f6feb?style=flat-square" alt="13 clients">
-  <img src="https://img.shields.io/badge/2_active-2ea44f?style=flat-square" alt="2 active">
+  <img src="https://img.shields.io/badge/1_active-2ea44f?style=flat-square" alt="1 active">
   <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
-  <img src="https://img.shields.io/badge/7_archived-6e7681?style=flat-square" alt="7 archived">
+  <img src="https://img.shields.io/badge/8_archived-6e7681?style=flat-square" alt="8 archived">
 </p>
 
 > [!CAUTION]
@@ -42,7 +42,6 @@
 
 - [Active Clients](#active-clients)
   - [Arc](#arc)
-  - [osu!rx](#osu-rx)
 - [Under Maintenance](#under-maintenance)
   - [Aeris - Kawata](#kawata-aeris)
   - [Maple](#maple)
@@ -57,6 +56,7 @@
   - [freedom](#freedom)
   - [tuyosu](#tuyosu)
   - [paw!cheats](#paw-cheats)
+  - [osu!rx](#osu-rx)
 - [Resources](#resources)
   - [Patched osu! b20220424](#patched-osu)
 - [Feature comparison](#feature-comparison)
@@ -94,23 +94,6 @@
 > [!WARNING]
 > Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 
-<a name="osu-rx"></a>
-
-### osu!rx
-
-> _Relax and aim hack for the legacy osu! b20220424 build._
-
-- **Status:** Active · Free · Requires a patched osu! b20220424 build
-- **Maintainer:** Sasuke (originally mrflashstudio)
-- **Download:** [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659)
-- **Setup:**
-  1. osu!rx does **not** run on the latest osu!. Download [b20220424](https://osekai.net/snapshots/versions/b20220424/b20220424.zip).
-  2. Apply a TLS-patched `osu.exe` (see note below).
-  3. Create a `_STAGING` file in your osu! folder to block auto-updates.
-
-> [!NOTE]
-> The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
-
 <a name="under-maintenance"></a>
 
 ## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
@@ -147,6 +130,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 - **Download:**
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
   - **Fallback:** [fishy.moe/download/aeris](https://fishy.moe/download/aeris)
+  - **Fallback Lite Build:** [fishy.moe/download/aeris-lite](https://fishy.moe/download/aeris-lite)
 - **Virus analysis:** [Hybrid Analysis report](https://www.hybrid-analysis.com/sample/3a08fea940bb7028b08b0a6688cae86344af3fc5ea2340ff03a29d95be090614)
 - **Cheats:**
   - Aim Correction (improved Skooter AC, optional Tap-on-Correct for non-RX, relative range support)
@@ -439,6 +423,23 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 
 </details>
 
+<a name="osu-rx"></a>
+
+### osu!rx
+
+> _Relax and aim hack for the legacy osu! b20220424 build._
+
+- **Status:** Archived · Free · Requires a patched osu! b20220424 build · Download currently unavailable
+- **Maintainer:** Sasuke (originally mrflashstudio)
+- **Download:** No direct link found right now; try the [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) or the osu!rx Discord for a current source.
+- **Setup:**
+  1. osu!rx does **not** run on the latest osu!. Download [b20220424](https://fishy.moe/download/osu-b20220424).
+  2. Apply a TLS-patched `osu.exe` (see note below).
+  3. Create a `_STAGING` file in your osu! folder to block auto-updates.
+
+> [!NOTE]
+> The original Discord CDN mirror for the TLS-patched `osu.exe` is no longer reachable. Ask MPGH or the osu!rx Discord for a current source.
+
 ## Resources
 
 <a name="patched-osu"></a>
@@ -449,28 +450,28 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Base client required by osu!rx and other legacy hacks._
 
 - **Status:** Archival snapshot
-- **Download:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
+- **Download1:** [fishy.moe snapshot (b20220424.zip)](https://fishy.moe/download/osu-b20220424)
+- **Download2:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
 - **Notes:** The alternate Discord CDN mirror was removed after going offline in 2025.
 
 <hr>
 
 ## Feature comparison
 
-| Feature | Arc | osu!rx | Aeris | Maple |
-|---|:---:|:---:|:---:|:---:|
-| Aim Assist / Correction | ✅ | ✅ | ✅ | ✅ |
-| Relax Hack | ✅ | ✅ | ✅ | ✅ |
-| Timewarp | ✅ | ❌ | ✅ | ✅ |
-| AR / CS Changer | ✅ | ❌ | ✅ | ✅ |
-| HD / FL Remover | ✅ | ❌ | ✅ | ✅ |
-| Cost | Free | Free | Free | 💰 Paid |
-| Works on current osu! | ✅ | ❌ | 🟠 | 🟠 |
+| Feature | Arc | Aeris | Maple |
+|---|:---:|:---:|:---:|
+| Aim Assist / Correction | ✅ | ✅ | ✅ |
+| Relax Hack | ✅ | ✅ | ✅ |
+| Timewarp | ✅ | ✅ | ✅ |
+| AR / CS Changer | ✅ | ✅ | ✅ |
+| HD / FL Remover | ✅ | ✅ | ✅ |
+| Cost | Free | Free | 💰 Paid |
+| Works on current osu! | ✅ | 🟠 | 🟠 |
 
 
 | Client | Status | Cost | Type | Current osu! | Download |
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
-| [**osu!rx**](#osu-rx) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | b20220424 | ❌ | [MPGH thread](https://www.mpgh.net/forum/showthread.php?t=1538659) |
 | [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
@@ -482,6 +483,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | [**freedom**](#freedom) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | DLL inject | ❌ | [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/downloads.php?do=file&id=41014) |
 | [**tuyosu**](#tuyosu) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | [fishy.moe/download/tuyosu](https://fishy.moe/download/tuyosu) |
 | [**paw!cheats**](#paw-cheats) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | Standalone | ❌ | _none_ |
+| [**osu!rx**](#osu-rx) | ![status: archived](https://img.shields.io/badge/archived-6e7681?style=flat-square) | Free | b20220424 | ❌ | _none found_ |
 
 <!-- 
 <sub>🟢 Active &nbsp;·&nbsp; 🟠 Under maintenance &nbsp;·&nbsp; ⚪ Legacy / archived</sub> -->
@@ -608,7 +610,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Original Cheat hunter and Researcher; <a href="https://kawata.pw">Kawata</a> Staff alumni.
+    2023 MPGH File testers and unsafe urls; <a href="https://kawata.pw">Kawata</a> Support/Gestion alumni.
     </td>
   </tr>
 </table>
