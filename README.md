@@ -450,7 +450,7 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 > _Base client required by osu!rx and other legacy hacks._
 
 - **Status:** Archival snapshot
-- **Download1:** [fishy.moe snapshot (b20220424.zip) cleaned leak db in osekai version] (https://fishy.moe/download/osu-b20220424)
+- **Download1:** [fishy.moe snapshot (b20220424.zip)](https://fishy.moe/download/osu-b20220424)
 - **Download2:** [osekai.net snapshot (b20220424.zip)](https://osekai.net/snapshots/versions/b20220424/b20220424.zip)
 - **Notes:** The alternate Discord CDN mirror was removed after going offline in 2025.
 
