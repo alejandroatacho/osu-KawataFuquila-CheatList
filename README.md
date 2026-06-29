@@ -610,7 +610,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Original Cheat hunter and Researcher; <a href="https://kawata.pw">Kawata</a> Staff alumni.
+    2023 MPGH File testers and unsafe urls; <a href="https://kawata.pw">Kawata</a> Support/Gestion alumni.
     </td>
   </tr>
 </table>
