@@ -2,13 +2,12 @@
   <!-- <img src="public/hero-banner.png" alt="osu! Cheat List" width="700"> -->
   <div align="center">
   <p><strong>Prefer an online interactive version of this archive? Browse <a href="https://fishy.moe/client-cheating-archive">fishy.moe</a>.</strong>
-  <p><bold>Redownload Aeris from fishy.moe for the updater version:June-29th-2026 3:00PM (utc -4) reuploaded currently being verified/tested to work on more then 2 device.</bold></p>
   </div>
   <h1>
     <img src="public/aqn-smoke.png" alt="" width="40"> osu! Cheat List <img src="public/aqn-smoke.png" alt="" width="40">
   </h1>
   <p><em>A directory of osu! private server cheat clients & hacks. Where to find them and what they do.</em></p>
-  <p><em>Created May 24, 2023 · Updated June 28, 2026</em></p>
+  <p><em>Created May 24, 2023 · Updated June 30, 2026</em></p>
 </div>
 
 <p align="center">
@@ -17,8 +16,8 @@
   <a href="https://github.com/alejandroatacho/osu-KawataFuquila-CheatList/graphs/contributors"><img src="https://img.shields.io/github/contributors/alejandroatacho/osu-KawataFuquila-CheatList?style=flat-square" alt="Contributors"></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/clients-13-1f6feb?style=flat-square" alt="13 clients">
-  <img src="https://img.shields.io/badge/1_active-2ea44f?style=flat-square" alt="1 active">
-  <img src="https://img.shields.io/badge/2_maintenance-f0a000?style=flat-square" alt="2 maintenance">
+  <img src="https://img.shields.io/badge/2_active-2ea44f?style=flat-square" alt="2 active">
+  <img src="https://img.shields.io/badge/1_maintenance-f0a000?style=flat-square" alt="1 maintenance">
   <img src="https://img.shields.io/badge/2_in_development-8957e5?style=flat-square" alt="2 in development">
   <img src="https://img.shields.io/badge/8_archived-6e7681?style=flat-square" alt="8 archived">
 </p>
@@ -43,8 +42,8 @@
 
 - [Active Clients](#active-clients)
   - [Arc](#arc)
-- [Under Maintenance](#under-maintenance)
   - [Aeris - Kawata](#kawata-aeris)
+- [Under Maintenance](#under-maintenance)
   - [Maple](#maple)
 - [Under Development](#under-development)
   - [AQN Revived V3](#aqn-revived-v3)
@@ -95,12 +94,6 @@
 > [!WARNING]
 > Do not put `osu!.exe` in your main osu! install. Make a new folder for the Arc client.
 
-<a name="under-maintenance"></a>
-
-## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
-
-_Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
-
 <a name="kawata-aeris"></a>
 
 ### Aeris - [Kawata](https://kawata.pw) <a href="https://kawata.pw"><img src="public/kawata.png" alt="Kawata mark" width="25" align="middle"></a>
@@ -112,8 +105,8 @@ _Clients that are temporarily down for updates. Their information and cheats are
 </div>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/status-under%20maintenance-orange?style=for-the-badge" alt="Under maintenance">
-  <img src="https://img.shields.io/badge/download-offline-critical?style=for-the-badge" alt="Download offline">
+  <img src="https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge" alt="Active">
+  <img src="https://img.shields.io/badge/official%20download-offline-critical?style=for-the-badge" alt="Official download offline">
   <img src="https://img.shields.io/badge/maintainer-relocating-blueviolet?style=for-the-badge" alt="Maintainer relocating">
 </p>
 
@@ -126,7 +119,7 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 > _Active beta with modernized Skooter AC, Relax, Timewarp, and Aim Assist beta features._
 
-- **Status:** Under maintenance · Download offline (maintainer relocating) · Public beta · Free
+- **Status:** Active (via fallback mirror) · Official download offline (maintainer relocating) · Public beta · Free
 - **Maintainer:** <a href="https://github.com/TheFantasticLoki"><img src="https://github.com/TheFantasticLoki.png" width="28" align="middle" alt="TheFantasticLoki avatar"> TheFantasticLoki</a> (originally <a href="https://github.com/PANIGE"><img src="https://github.com/PANIGE.png" width="28" align="middle" alt="Panini Céleste avatar"> Panini Céleste</a>; contributions from <a href="https://maple.software/"><img src="public/maple.ico" width="16" align="middle" alt="Maple icon"> Maple Syrup</a>, [Chewy/Pythr](https://github.com/Pytxhr) and <a href="https://github.com/nyoemii"><img src="https://github.com/nyoemii.png" width="28" align="middle" alt="noemi avatar"> noemi</a>)
 - **Download:**
   - **Official:** [storage.kawata.pw](https://storage.kawata.pw/get/osu!Kawata.zip) *(currently offline, maintainer relocating)*
@@ -148,6 +141,12 @@ _Clients that are temporarily down for updates. Their information and cheats are
 
 > [!TIP]
 > Add the install folder as an antivirus exclusion to prevent issues.
+
+<a name="under-maintenance"></a>
+
+## <img src="https://img.shields.io/badge/🟠_UNDER_MAINTENANCE-f0a000?style=for-the-badge" height="34" alt="Under Maintenance">
+
+_Clients that are temporarily down for updates. Their information and cheats are preserved below, but they're currently unavailable to buy or use until the next build ships._
 
 <a name="maple"></a>
 <a name="maple-client"></a>
@@ -466,13 +465,13 @@ _Discontinued or no-longer-maintained clients, kept here for historical referenc
 | AR / CS Changer | ✅ | ✅ | ✅ |
 | HD / FL Remover | ✅ | ✅ | ✅ |
 | Cost | Free | Free | 💰 Paid |
-| Works on current osu! | ✅ | 🟠 | 🟠 |
+| Works on current osu!kawata | ✅ | ✅ | 🟠 |
 
 
-| Client | Status | Cost | Type | Current osu! | Download |
+| Client | Status | Cost | Type | Current osu!kawata | Download |
 |---|---|:---:|:---:|:---:|:---:|
 | [**Arc**](#arc) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [Direct download](https://m1.aochi.uk/r/osu!.exe) |
-| [**Aeris**](#kawata-aeris) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | Free | Standalone | 🟠 | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
+| [**Aeris**](#kawata-aeris) | ![status: active](https://img.shields.io/badge/active-2ea44f?style=flat-square) | Free | Standalone | ✅ | [fishy.moe/download/aeris](https://fishy.moe/download/aeris) *(fallback)* |
 | [**Maple**](#maple) | ![status: maintenance](https://img.shields.io/badge/maintenance-f0a000?style=flat-square) | 💰 Paid | Standalone | 🟠 | _unavailable_ |
 | [**AQN Revived V3**](#aqn-revived-v3) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | [theaquila.network](https://theaquila.network) |
 | [**??????**](#mystery-client) | ![status: in development](https://img.shields.io/badge/in_development-8957e5?style=flat-square) | TBD | TBD | TBD | _unreleased_ |
@@ -550,12 +549,12 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
   <tr>
     <td align="center" width="140">
       <a href="https://github.com/alejandroatacho">
-        <img src="https://github.com/alejandroatacho.png" width="80" alt="alejandroatacho"><br>
-        <sub><b>alejandroatacho</b></sub>
+        <img src="public/hina-og-aqn-v1-pfp.jpg" width="80" alt="hinamizawa"><br>
+        <sub><b>hinamizawa</b></sub>
       </a>
     </td>
     <td>
-      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
+      Originally moderator and guide writer for <a href="#aqn">AQN (V1 + V2)</a>; now Administrator &amp; Developer at <a href="https://kawata.pw/u/12396">Kawata</a>, Overwatcher/Moderator at <a href="https://osu.gatari.pw/u/17181">Gatari</a> and Owner / Solo Developer of <a href="https://hinamizawa.ai">hinamizawa.ai</a> & <a href="https://fishy.moe">fishy.moe</a>.
     </td>
   </tr>
   <tr>
@@ -599,7 +598,7 @@ PRs adding **new actively-developed cheat clients** are reviewed case-by-case, s
       </a>
     </td>
     <td>
-      Co-Owner, Global Community Manager, and Score Hunt Event Manager / Host / Planner at <a href="https://kawata.pw/u/13233">kawata.pw</a>.
+       Co-Owner, Global Community Manager, Kawata Youtube Manager and Score Hunt Event Manager / Host / Planner at <a href="https://kawata.pw/u/13233">kawata.pw</a>.
     </td>
   </tr>
   <tr>
